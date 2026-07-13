@@ -45,7 +45,7 @@ The sinkhole also runs an HTTP server that serves court-order block notices, cat
 
 ```bash
 git clone <this-repo>
-cd act-transparent-proxy-bans
+cd act-dns-hijack
 ./run_all.sh
 ```
 
@@ -381,7 +381,7 @@ Injecting false answers while claiming the identity of third-party IP addresses 
 ## Repository Structure
 
 ```
-act-transparent-proxy-bans/
+act-dns-hijack/
 ├── scripts/
 │   ├── 01_raw_udp_interception.py   # Core proof: raw UDP queries to non-routable IPs
 │   ├── 02_blocklist_scan.py          # Scan 170 domains for DNS blocking
