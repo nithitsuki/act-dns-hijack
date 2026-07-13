@@ -1,0 +1,233 @@
+[
+  {
+    "domain": "youtube.com",
+    "timestamp": "2026-07-13T17:09:14.879351+00:00",
+    "ips": [
+      "49.205.75.11"
+    ],
+    "intercepted": true,
+    "category": "exact_match",
+    "note": "base domain"
+  },
+  {
+    "domain": "music.youtube.com",
+    "timestamp": "2026-07-13T17:09:15.037172+00:00",
+    "ips": [
+      "49.205.75.11"
+    ],
+    "intercepted": true,
+    "category": "exact_match",
+    "note": "known blocked subdomain"
+  },
+  {
+    "domain": "www.youtube.com",
+    "timestamp": "2026-07-13T17:09:15.193702+00:00",
+    "ips": [],
+    "intercepted": false,
+    "status": "TIMEOUT",
+    "category": "exact_match",
+    "note": "known NOT blocked subdomain"
+  },
+  {
+    "domain": "m.youtube.com",
+    "timestamp": "2026-07-13T17:09:18.448441+00:00",
+    "ips": [],
+    "intercepted": false,
+    "status": "TIMEOUT",
+    "category": "exact_match",
+    "note": "known NOT blocked subdomain"
+  },
+  {
+    "domain": "YOUTUBE.COM",
+    "timestamp": "2026-07-13T17:09:21.702271+00:00",
+    "ips": [
+      "49.205.75.11"
+    ],
+    "intercepted": true,
+    "category": "case_insensitivity",
+    "note": "uppercase"
+  },
+  {
+    "domain": "Youtube.Com",
+    "timestamp": "2026-07-13T17:09:21.858400+00:00",
+    "ips": [
+      "49.205.75.11"
+    ],
+    "intercepted": true,
+    "category": "case_insensitivity",
+    "note": "mixed case"
+  },
+  {
+    "domain": "music.YouTube.com",
+    "timestamp": "2026-07-13T17:09:22.015777+00:00",
+    "ips": [
+      "49.205.75.11"
+    ],
+    "intercepted": true,
+    "category": "case_insensitivity",
+    "note": "mixed case subdomain"
+  },
+  {
+    "domain": "youtube.com.",
+    "timestamp": "2026-07-13T17:09:22.174506+00:00",
+    "ips": [
+      "49.205.75.11"
+    ],
+    "intercepted": true,
+    "category": "trailing_dot",
+    "note": "with trailing dot"
+  },
+  {
+    "domain": "music.youtube.com.",
+    "timestamp": "2026-07-13T17:09:22.333635+00:00",
+    "ips": [
+      "49.205.75.11"
+    ],
+    "intercepted": true,
+    "category": "trailing_dot",
+    "note": "subdomain with trailing dot"
+  },
+  {
+    "domain": "random123.youtube.com",
+    "timestamp": "2026-07-13T17:09:22.487751+00:00",
+    "ips": [
+      "49.205.75.11"
+    ],
+    "intercepted": true,
+    "category": "subdomain_inheritance",
+    "note": "random subdomain of blocked base"
+  },
+  {
+    "domain": "deep.sub.youtube.com",
+    "timestamp": "2026-07-13T17:09:22.642522+00:00",
+    "ips": [
+      "49.205.75.11"
+    ],
+    "intercepted": true,
+    "category": "subdomain_inheritance",
+    "note": "deep subdomain"
+  },
+  {
+    "domain": "random123.www.youtube.com",
+    "timestamp": "2026-07-13T17:09:22.798929+00:00",
+    "ips": [],
+    "intercepted": false,
+    "status": "TIMEOUT",
+    "category": "subdomain_inheritance",
+    "note": "random subdomain of NOT-blocked www"
+  },
+  {
+    "domain": "x.music.youtube.com",
+    "timestamp": "2026-07-13T17:09:26.053755+00:00",
+    "ips": [
+      "49.205.75.11"
+    ],
+    "intercepted": true,
+    "category": "subdomain_inheritance",
+    "note": "prepend to blocked subdomain"
+  },
+  {
+    "domain": "notyoutube.com",
+    "timestamp": "2026-07-13T17:09:26.211575+00:00",
+    "ips": [],
+    "intercepted": false,
+    "status": "TIMEOUT",
+    "category": "suffix_matching",
+    "note": "contains 'youtube.com' as substring"
+  },
+  {
+    "domain": "youtube.com.evil.com",
+    "timestamp": "2026-07-13T17:09:29.465112+00:00",
+    "ips": [],
+    "intercepted": false,
+    "status": "TIMEOUT",
+    "category": "suffix_matching",
+    "note": "youtube.com as prefix of other domain"
+  },
+  {
+    "domain": "evil.youtube.com.evil.com",
+    "timestamp": "2026-07-13T17:09:32.719883+00:00",
+    "ips": [],
+    "intercepted": false,
+    "status": "TIMEOUT",
+    "category": "suffix_matching",
+    "note": "youtube.com in middle"
+  },
+  {
+    "domain": "tiktok.com",
+    "timestamp": "2026-07-13T17:09:35.975166+00:00",
+    "ips": [
+      "49.205.75.11"
+    ],
+    "intercepted": true,
+    "category": "different_blocked_bases",
+    "note": "base blocked"
+  },
+  {
+    "domain": "www.tiktok.com",
+    "timestamp": "2026-07-13T17:09:36.130128+00:00",
+    "ips": [
+      "49.205.75.11"
+    ],
+    "intercepted": true,
+    "category": "different_blocked_bases",
+    "note": "www subdomain"
+  },
+  {
+    "domain": "random.tiktok.com",
+    "timestamp": "2026-07-13T17:09:36.288039+00:00",
+    "ips": [
+      "49.205.75.11"
+    ],
+    "intercepted": true,
+    "category": "different_blocked_bases",
+    "note": "random subdomain"
+  },
+  {
+    "domain": "thepiratebay.org",
+    "timestamp": "2026-07-13T17:09:36.443807+00:00",
+    "ips": [
+      "49.205.75.11"
+    ],
+    "intercepted": true,
+    "category": "different_blocked_bases",
+    "note": "base blocked"
+  },
+  {
+    "domain": "x.thepiratebay.org",
+    "timestamp": "2026-07-13T17:09:36.601244+00:00",
+    "ips": [
+      "49.205.75.11"
+    ],
+    "intercepted": true,
+    "category": "different_blocked_bases",
+    "note": "subdomain"
+  },
+  {
+    "domain": "example.com",
+    "timestamp": "2026-07-13T17:09:36.758268+00:00",
+    "ips": [],
+    "intercepted": false,
+    "status": "TIMEOUT",
+    "category": "controls",
+    "note": "control"
+  },
+  {
+    "domain": "google.com",
+    "timestamp": "2026-07-13T17:09:40.012273+00:00",
+    "ips": [],
+    "intercepted": false,
+    "status": "TIMEOUT",
+    "category": "controls",
+    "note": "control"
+  },
+  {
+    "domain": "random123.example.com",
+    "timestamp": "2026-07-13T17:09:43.267468+00:00",
+    "ips": [],
+    "intercepted": false,
+    "status": "TIMEOUT",
+    "category": "controls",
+    "note": "random subdomain of control"
+  }
+]

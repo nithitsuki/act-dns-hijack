@@ -1,0 +1,484 @@
+[
+  {
+    "transport": "UDP",
+    "server": "1.1.1.1",
+    "domain": "music.youtube.com",
+    "ips": [
+      "49.205.75.11"
+    ],
+    "blocked": true
+  },
+  {
+    "transport": "UDP",
+    "server": "198.51.100.1",
+    "domain": "music.youtube.com",
+    "ips": [
+      "49.205.75.11"
+    ],
+    "blocked": true
+  },
+  {
+    "transport": "TCP",
+    "server": "1.1.1.1",
+    "domain": "music.youtube.com",
+    "ips": [
+      "youtube-ui.l.google.com.",
+      "172.217.24.206",
+      "142.251.221.174",
+      "142.251.43.46",
+      "142.250.205.142",
+      "142.250.206.14",
+      "142.250.206.78",
+      "142.251.222.142",
+      "142.251.221.206",
+      "142.250.67.46",
+      "142.250.205.14",
+      "142.250.207.78",
+      "142.251.222.174",
+      "142.250.66.14",
+      "142.250.77.110",
+      "142.250.205.78",
+      "142.251.222.206"
+    ],
+    "blocked": false,
+    "rcode": "NOERROR",
+    "aa": false
+  },
+  {
+    "transport": "TCP",
+    "server": "198.51.100.1",
+    "domain": "music.youtube.com",
+    "ips": [],
+    "blocked": false,
+    "error": "timeout"
+  },
+  {
+    "transport": "DoT",
+    "server": "1.1.1.1:853",
+    "domain": "music.youtube.com",
+    "ips": [
+      "youtube-ui.l.google.com.",
+      "172.217.24.206",
+      "142.251.221.174",
+      "142.251.43.46",
+      "142.250.205.142",
+      "142.250.206.14",
+      "142.250.206.78",
+      "142.251.222.142",
+      "142.251.221.206",
+      "142.250.67.46",
+      "142.250.205.14",
+      "142.250.207.78",
+      "142.251.222.174",
+      "142.250.66.14",
+      "142.250.77.110",
+      "142.250.205.78",
+      "142.251.222.206"
+    ],
+    "blocked": false,
+    "aa": false
+  },
+  {
+    "transport": "DoH",
+    "server": "cloudflare-dns.com",
+    "domain": "music.youtube.com",
+    "ips": [
+      "142.250.205.78",
+      "142.251.222.206",
+      "172.217.24.206",
+      "142.251.221.174",
+      "142.251.43.46",
+      "142.250.205.142",
+      "142.250.206.14",
+      "142.250.206.78",
+      "142.251.222.142",
+      "142.251.221.206",
+      "142.250.67.46",
+      "142.250.205.14",
+      "142.250.207.78",
+      "142.251.222.174",
+      "142.250.66.14",
+      "142.250.77.110"
+    ],
+    "blocked": false,
+    "raw": {
+      "Status": 0,
+      "TC": false,
+      "RD": true,
+      "RA": true,
+      "AD": false,
+      "CD": false,
+      "Question": [
+        {
+          "name": "music.youtube.com",
+          "type": 1
+        }
+      ],
+      "Answer": [
+        {
+          "name": "music.youtube.com",
+          "type": 5,
+          "TTL": 282,
+          "data": "youtube-ui.l.google.com."
+        },
+        {
+          "name": "youtube-ui.l.google.com",
+          "type": 1,
+          "TTL": 282,
+          "data": "142.250.205.78"
+        },
+        {
+          "name": "youtube-ui.l.google.com",
+          "type": 1,
+          "TTL": 282,
+          "data": "142.251.222.206"
+        },
+        {
+          "name": "youtube-ui.l.google.com",
+          "type": 1,
+          "TTL": 282,
+          "data": "172.217.24.206"
+        },
+        {
+          "name": "youtube-ui.l.google.com",
+          "type": 1,
+          "TTL": 282,
+          "data": "142.251.221.174"
+        },
+        {
+          "name": "youtube-ui.l.google.com",
+          "type": 1,
+          "TTL": 282,
+          "data": "142.251.43.46"
+        },
+        {
+          "name": "youtube-ui.l.google.com",
+          "type": 1,
+          "TTL": 282,
+          "data": "142.250.205.142"
+        },
+        {
+          "name": "youtube-ui.l.google.com",
+          "type": 1,
+          "TTL": 282,
+          "data": "142.250.206.14"
+        },
+        {
+          "name": "youtube-ui.l.google.com",
+          "type": 1,
+          "TTL": 282,
+          "data": "142.250.206.78"
+        },
+        {
+          "name": "youtube-ui.l.google.com",
+          "type": 1,
+          "TTL": 282,
+          "data": "142.251.222.142"
+        },
+        {
+          "name": "youtube-ui.l.google.com",
+          "type": 1,
+          "TTL": 282,
+          "data": "142.251.221.206"
+        },
+        {
+          "name": "youtube-ui.l.google.com",
+          "type": 1,
+          "TTL": 282,
+          "data": "142.250.67.46"
+        },
+        {
+          "name": "youtube-ui.l.google.com",
+          "type": 1,
+          "TTL": 282,
+          "data": "142.250.205.14"
+        },
+        {
+          "name": "youtube-ui.l.google.com",
+          "type": 1,
+          "TTL": 282,
+          "data": "142.250.207.78"
+        },
+        {
+          "name": "youtube-ui.l.google.com",
+          "type": 1,
+          "TTL": 282,
+          "data": "142.251.222.174"
+        },
+        {
+          "name": "youtube-ui.l.google.com",
+          "type": 1,
+          "TTL": 282,
+          "data": "142.250.66.14"
+        },
+        {
+          "name": "youtube-ui.l.google.com",
+          "type": 1,
+          "TTL": 282,
+          "data": "142.250.77.110"
+        }
+      ]
+    }
+  },
+  {
+    "transport": "UDP",
+    "server": "1.1.1.1",
+    "domain": "youtube.com",
+    "ips": [
+      "49.205.75.11"
+    ],
+    "blocked": true
+  },
+  {
+    "transport": "UDP",
+    "server": "198.51.100.1",
+    "domain": "youtube.com",
+    "ips": [
+      "49.205.75.11"
+    ],
+    "blocked": true
+  },
+  {
+    "transport": "TCP",
+    "server": "1.1.1.1",
+    "domain": "youtube.com",
+    "ips": [
+      "142.250.183.174"
+    ],
+    "blocked": false,
+    "rcode": "NOERROR",
+    "aa": false
+  },
+  {
+    "transport": "TCP",
+    "server": "198.51.100.1",
+    "domain": "youtube.com",
+    "ips": [],
+    "blocked": false,
+    "error": "timeout"
+  },
+  {
+    "transport": "DoT",
+    "server": "1.1.1.1:853",
+    "domain": "youtube.com",
+    "ips": [
+      "142.250.183.174"
+    ],
+    "blocked": false,
+    "aa": false
+  },
+  {
+    "transport": "DoH",
+    "server": "cloudflare-dns.com",
+    "domain": "youtube.com",
+    "ips": [
+      "142.250.183.174"
+    ],
+    "blocked": false,
+    "raw": {
+      "Status": 0,
+      "TC": false,
+      "RD": true,
+      "RA": true,
+      "AD": false,
+      "CD": false,
+      "Question": [
+        {
+          "name": "youtube.com",
+          "type": 1
+        }
+      ],
+      "Answer": [
+        {
+          "name": "youtube.com",
+          "type": 1,
+          "TTL": 300,
+          "data": "142.250.183.174"
+        }
+      ]
+    }
+  },
+  {
+    "transport": "UDP",
+    "server": "1.1.1.1",
+    "domain": "tiktok.com",
+    "ips": [
+      "49.205.75.11"
+    ],
+    "blocked": true
+  },
+  {
+    "transport": "UDP",
+    "server": "198.51.100.1",
+    "domain": "tiktok.com",
+    "ips": [
+      "49.205.75.11"
+    ],
+    "blocked": true
+  },
+  {
+    "transport": "TCP",
+    "server": "1.1.1.1",
+    "domain": "tiktok.com",
+    "ips": [
+      "23.11.215.154",
+      "23.11.215.138",
+      "23.11.215.144"
+    ],
+    "blocked": false,
+    "rcode": "NOERROR",
+    "aa": false
+  },
+  {
+    "transport": "TCP",
+    "server": "198.51.100.1",
+    "domain": "tiktok.com",
+    "ips": [],
+    "blocked": false,
+    "error": "timeout"
+  },
+  {
+    "transport": "DoT",
+    "server": "1.1.1.1:853",
+    "domain": "tiktok.com",
+    "ips": [
+      "23.11.215.144",
+      "23.11.215.154",
+      "23.11.215.138"
+    ],
+    "blocked": false,
+    "aa": false
+  },
+  {
+    "transport": "DoH",
+    "server": "cloudflare-dns.com",
+    "domain": "tiktok.com",
+    "ips": [
+      "23.11.215.144",
+      "23.11.215.154",
+      "23.11.215.138"
+    ],
+    "blocked": false,
+    "raw": {
+      "Status": 0,
+      "TC": false,
+      "RD": true,
+      "RA": true,
+      "AD": false,
+      "CD": false,
+      "Question": [
+        {
+          "name": "tiktok.com",
+          "type": 1
+        }
+      ],
+      "Answer": [
+        {
+          "name": "tiktok.com",
+          "type": 1,
+          "TTL": 20,
+          "data": "23.11.215.144"
+        },
+        {
+          "name": "tiktok.com",
+          "type": 1,
+          "TTL": 20,
+          "data": "23.11.215.154"
+        },
+        {
+          "name": "tiktok.com",
+          "type": 1,
+          "TTL": 20,
+          "data": "23.11.215.138"
+        }
+      ]
+    }
+  },
+  {
+    "transport": "UDP",
+    "server": "1.1.1.1",
+    "domain": "example.com",
+    "ips": [
+      "104.20.23.154",
+      "172.66.147.243"
+    ],
+    "blocked": false
+  },
+  {
+    "transport": "UDP",
+    "server": "198.51.100.1",
+    "domain": "example.com",
+    "ips": [],
+    "blocked": false,
+    "error": "timeout"
+  },
+  {
+    "transport": "TCP",
+    "server": "1.1.1.1",
+    "domain": "example.com",
+    "ips": [
+      "172.66.147.243",
+      "104.20.23.154"
+    ],
+    "blocked": false,
+    "rcode": "NOERROR",
+    "aa": false
+  },
+  {
+    "transport": "TCP",
+    "server": "198.51.100.1",
+    "domain": "example.com",
+    "ips": [],
+    "blocked": false,
+    "error": "timeout"
+  },
+  {
+    "transport": "DoT",
+    "server": "1.1.1.1:853",
+    "domain": "example.com",
+    "ips": [
+      "104.20.23.154",
+      "172.66.147.243"
+    ],
+    "blocked": false,
+    "aa": false
+  },
+  {
+    "transport": "DoH",
+    "server": "cloudflare-dns.com",
+    "domain": "example.com",
+    "ips": [
+      "104.20.23.154",
+      "172.66.147.243"
+    ],
+    "blocked": false,
+    "raw": {
+      "Status": 0,
+      "TC": false,
+      "RD": true,
+      "RA": true,
+      "AD": false,
+      "CD": false,
+      "Question": [
+        {
+          "name": "example.com",
+          "type": 1
+        }
+      ],
+      "Answer": [
+        {
+          "name": "example.com",
+          "type": 1,
+          "TTL": 184,
+          "data": "104.20.23.154"
+        },
+        {
+          "name": "example.com",
+          "type": 1,
+          "TTL": 184,
+          "data": "172.66.147.243"
+        }
+      ]
+    }
+  }
+]

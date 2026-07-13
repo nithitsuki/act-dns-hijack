@@ -1,0 +1,1154 @@
+{
+  "youtube": [
+    {
+      "host": "youtube.com",
+      "timestamp": "2026-07-13T17:02:20.463930+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "blocked": true,
+      "category": "Court Order",
+      "block_message": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "domain_category": "youtube"
+    },
+    {
+      "host": "www.youtube.com",
+      "timestamp": "2026-07-13T17:02:20.578584+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "blocked": true,
+      "category": "Court Order",
+      "block_message": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "domain_category": "youtube"
+    },
+    {
+      "host": "m.youtube.com",
+      "timestamp": "2026-07-13T17:02:20.694274+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "blocked": true,
+      "category": "Court Order",
+      "block_message": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "domain_category": "youtube"
+    },
+    {
+      "host": "music.youtube.com",
+      "timestamp": "2026-07-13T17:02:20.808377+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "blocked": true,
+      "category": "Court Order",
+      "block_message": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "domain_category": "youtube"
+    },
+    {
+      "host": "tv.youtube.com",
+      "timestamp": "2026-07-13T17:02:20.917247+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "blocked": true,
+      "category": "Court Order",
+      "block_message": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "domain_category": "youtube"
+    },
+    {
+      "host": "gaming.youtube.com",
+      "timestamp": "2026-07-13T17:02:21.027524+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "blocked": true,
+      "category": "Court Order",
+      "block_message": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "domain_category": "youtube"
+    },
+    {
+      "host": "studio.youtube.com",
+      "timestamp": "2026-07-13T17:02:21.138908+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "blocked": true,
+      "category": "Court Order",
+      "block_message": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "domain_category": "youtube"
+    },
+    {
+      "host": "news.youtube.com",
+      "timestamp": "2026-07-13T17:02:21.247231+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "blocked": true,
+      "category": "Court Order",
+      "block_message": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "domain_category": "youtube"
+    },
+    {
+      "host": "artists.youtube.com",
+      "timestamp": "2026-07-13T17:02:21.358119+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "blocked": true,
+      "category": "Court Order",
+      "block_message": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "domain_category": "youtube"
+    },
+    {
+      "host": "shorts.youtube.com",
+      "timestamp": "2026-07-13T17:02:21.468108+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "blocked": true,
+      "category": "Court Order",
+      "block_message": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "domain_category": "youtube"
+    },
+    {
+      "host": "education.youtube.com",
+      "timestamp": "2026-07-13T17:02:21.576680+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "blocked": true,
+      "category": "Court Order",
+      "block_message": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "domain_category": "youtube"
+    },
+    {
+      "host": "kids.youtube.com",
+      "timestamp": "2026-07-13T17:02:21.683905+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "blocked": true,
+      "category": "Court Order",
+      "block_message": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "domain_category": "youtube"
+    }
+  ],
+  "piracy_torrent": [
+    {
+      "host": "thepiratebay.org",
+      "timestamp": "2026-07-13T17:02:21.792718+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "The website has been blocked as per notice/direction of Law Enforcement Agencies(LEAs).",
+      "blocked": true,
+      "category": "Law Enforcement (LEA)",
+      "block_message": "The website has been blocked as per notice/direction of Law Enforcement Agencies(LEAs).",
+      "domain_category": "piracy_torrent"
+    },
+    {
+      "host": "1337x.to",
+      "timestamp": "2026-07-13T17:02:21.907769+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "The URL has been blocked as per the instructions of the Competent Government Authority/ in compliance to the orders of Court of Law.",
+      "blocked": true,
+      "category": "Govt Authority + Court",
+      "block_message": "The URL has been blocked as per the instructions of the Competent Government Authority/ in compliance to the orders of Court of Law.",
+      "domain_category": "piracy_torrent"
+    },
+    {
+      "host": "1337x.st",
+      "timestamp": "2026-07-13T17:02:22.016013+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "The URL has been blocked as per the instructions of the Competent Government Authority/ in compliance to the orders of Court of Law.",
+      "blocked": true,
+      "category": "Govt Authority + Court",
+      "block_message": "The URL has been blocked as per the instructions of the Competent Government Authority/ in compliance to the orders of Court of Law.",
+      "domain_category": "piracy_torrent"
+    },
+    {
+      "host": "x1337x.ws",
+      "timestamp": "2026-07-13T17:02:22.125695+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "blocked": true,
+      "category": "Court Order",
+      "block_message": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "domain_category": "piracy_torrent"
+    },
+    {
+      "host": "yts.mx",
+      "timestamp": "2026-07-13T17:02:22.237578+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "blocked": true,
+      "category": "Court Order",
+      "block_message": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "domain_category": "piracy_torrent"
+    },
+    {
+      "host": "yts.lt",
+      "timestamp": "2026-07-13T17:02:22.346623+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "blocked": true,
+      "category": "Court Order",
+      "block_message": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "domain_category": "piracy_torrent"
+    },
+    {
+      "host": "rarbg.to",
+      "timestamp": "2026-07-13T17:02:22.458573+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "The URL has been blocked as per the instructions of the Competent Government Authority/ in compliance to the orders of Court of Law.",
+      "blocked": true,
+      "category": "Govt Authority + Court",
+      "block_message": "The URL has been blocked as per the instructions of the Competent Government Authority/ in compliance to the orders of Court of Law.",
+      "domain_category": "piracy_torrent"
+    },
+    {
+      "host": "rarbg.com",
+      "timestamp": "2026-07-13T17:02:22.565322+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "The URL has been blocked as per the instructions of the Competent Government Authority/ in compliance to the orders of Court of Law.",
+      "blocked": true,
+      "category": "Govt Authority + Court",
+      "block_message": "The URL has been blocked as per the instructions of the Competent Government Authority/ in compliance to the orders of Court of Law.",
+      "domain_category": "piracy_torrent"
+    },
+    {
+      "host": "rarbgproxy.org",
+      "timestamp": "2026-07-13T17:02:22.672893+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "The URL has been blocked as per the instructions of the Competent Government Authority/ in compliance to the orders of Court of Law.",
+      "blocked": true,
+      "category": "Govt Authority + Court",
+      "block_message": "The URL has been blocked as per the instructions of the Competent Government Authority/ in compliance to the orders of Court of Law.",
+      "domain_category": "piracy_torrent"
+    },
+    {
+      "host": "torrentz2.eu",
+      "timestamp": "2026-07-13T17:02:22.779947+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "The URL has been blocked as per the instructions of the Competent Government Authority/ in compliance to the orders of Court of Law.",
+      "blocked": true,
+      "category": "Govt Authority + Court",
+      "block_message": "The URL has been blocked as per the instructions of the Competent Government Authority/ in compliance to the orders of Court of Law.",
+      "domain_category": "piracy_torrent"
+    },
+    {
+      "host": "limetorrents.info",
+      "timestamp": "2026-07-13T17:02:22.891602+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "The website has been blocked as per order of the Ministry of Electronics and Information Technology under IT Act, 2000.",
+      "blocked": true,
+      "category": "MeitY / IT Act",
+      "block_message": "The website has been blocked as per order of the Ministry of Electronics and Information Technology under IT Act, 2000.",
+      "domain_category": "piracy_torrent"
+    },
+    {
+      "host": "limetorrents.cc",
+      "timestamp": "2026-07-13T17:02:23.004331+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "The website has been blocked as per order of the Ministry of Electronics and Information Technology under IT Act, 2000.",
+      "blocked": true,
+      "category": "MeitY / IT Act",
+      "block_message": "The website has been blocked as per order of the Ministry of Electronics and Information Technology under IT Act, 2000.",
+      "domain_category": "piracy_torrent"
+    },
+    {
+      "host": "extratorrent.to",
+      "timestamp": "2026-07-13T17:02:23.119218+00:00",
+      "blocked": false,
+      "category": "ERROR: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "domain_category": "piracy_torrent"
+    },
+    {
+      "host": "extratorrent.ee",
+      "timestamp": "2026-07-13T17:02:26.717303+00:00",
+      "blocked": false,
+      "category": "ERROR: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "domain_category": "piracy_torrent"
+    },
+    {
+      "host": "nyaa.si",
+      "timestamp": "2026-07-13T17:02:29.786139+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "The URL has been blocked as per the instructions of the Competent Government Authority/ in compliance to the orders of Court of Law.",
+      "blocked": true,
+      "category": "Govt Authority + Court",
+      "block_message": "The URL has been blocked as per the instructions of the Competent Government Authority/ in compliance to the orders of Court of Law.",
+      "domain_category": "piracy_torrent"
+    },
+    {
+      "host": "kickasstorrents.to",
+      "timestamp": "2026-07-13T17:02:29.897346+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "The URL has been blocked as per the instructions of the Competent Government Authority/ in compliance to the orders of Court of Law.",
+      "blocked": true,
+      "category": "Govt Authority + Court",
+      "block_message": "The URL has been blocked as per the instructions of the Competent Government Authority/ in compliance to the orders of Court of Law.",
+      "domain_category": "piracy_torrent"
+    },
+    {
+      "host": "kickass.to",
+      "timestamp": "2026-07-13T17:02:30.008693+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "The website has been blocked as per notice/direction of Law Enforcement Agencies(LEAs).",
+      "blocked": true,
+      "category": "Law Enforcement (LEA)",
+      "block_message": "The website has been blocked as per notice/direction of Law Enforcement Agencies(LEAs).",
+      "domain_category": "piracy_torrent"
+    },
+    {
+      "host": "kat.cr",
+      "timestamp": "2026-07-13T17:02:30.119698+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "The URL has been blocked as per the instructions of the Competent Government Authority/ in compliance to the orders of Court of Law.",
+      "blocked": true,
+      "category": "Govt Authority + Court",
+      "block_message": "The URL has been blocked as per the instructions of the Competent Government Authority/ in compliance to the orders of Court of Law.",
+      "domain_category": "piracy_torrent"
+    },
+    {
+      "host": "torrentgalaxy.to",
+      "timestamp": "2026-07-13T17:02:30.229507+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "blocked": true,
+      "category": "Court Order",
+      "block_message": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "domain_category": "piracy_torrent"
+    },
+    {
+      "host": "torrentproject.pro",
+      "timestamp": "2026-07-13T17:02:30.338703+00:00",
+      "blocked": false,
+      "category": "TIMEOUT",
+      "domain_category": "piracy_torrent"
+    },
+    {
+      "host": "magnetdl.com",
+      "timestamp": "2026-07-13T17:02:35.446883+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "blocked": true,
+      "category": "Court Order",
+      "block_message": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "domain_category": "piracy_torrent"
+    },
+    {
+      "host": "isohunt.to",
+      "timestamp": "2026-07-13T17:02:35.556161+00:00",
+      "status_code": 200,
+      "reason": "OK",
+      "response_headers": {
+        "date": "Mon, 13 Jul 2026 17:02:37 GMT",
+        "server": "Apache",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "content-length": "229",
+        "content-type": "text/html; charset=UTF-8",
+        "connection": "close"
+      },
+      "body": "<!DOCTYPE html>\n<html>\n<head>\n<title>isohunt.to</title>\n<script async src=\"https://assets.abovedomains.com/javascript/forsale.min.js?d=isohunt.to\"></script>\n<style>body{background:#101c36;color:#fff}h1{text-align:center;margin-top:1rem}</style>\n</head>\n<body>\n<h1>isohunt.to</h1>\n</body>\n</html>",
+      "blocked": false,
+      "proxy_passthrough": true,
+      "category": "TRANSPARENT_PROXY_PASSTHROUGH",
+      "domain_category": "piracy_torrent"
+    },
+    {
+      "host": "torrentdownloads.me",
+      "timestamp": "2026-07-13T17:02:37.979937+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "The website has been blocked as per order of the Ministry of Electronics and Information Technology under IT Act, 2000.",
+      "blocked": true,
+      "category": "MeitY / IT Act",
+      "block_message": "The website has been blocked as per order of the Ministry of Electronics and Information Technology under IT Act, 2000.",
+      "domain_category": "piracy_torrent"
+    },
+    {
+      "host": "eztv.io",
+      "timestamp": "2026-07-13T17:02:38.092609+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "The website has been blocked as per order of the Ministry of Electronics and Information Technology under IT Act, 2000.",
+      "blocked": true,
+      "category": "MeitY / IT Act",
+      "block_message": "The website has been blocked as per order of the Ministry of Electronics and Information Technology under IT Act, 2000.",
+      "domain_category": "piracy_torrent"
+    },
+    {
+      "host": "eztv.ag",
+      "timestamp": "2026-07-13T17:02:38.204512+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "The website has been blocked as per order of the Ministry of Electronics and Information Technology under IT Act, 2000.",
+      "blocked": true,
+      "category": "MeitY / IT Act",
+      "block_message": "The website has been blocked as per order of the Ministry of Electronics and Information Technology under IT Act, 2000.",
+      "domain_category": "piracy_torrent"
+    },
+    {
+      "host": "yourbittorrent.com",
+      "timestamp": "2026-07-13T17:02:38.316537+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "The website has been blocked as per order of the Ministry of Electronics and Information Technology under IT Act, 2000.",
+      "blocked": true,
+      "category": "MeitY / IT Act",
+      "block_message": "The website has been blocked as per order of the Ministry of Electronics and Information Technology under IT Act, 2000.",
+      "domain_category": "piracy_torrent"
+    }
+  ],
+  "pornography": [
+    {
+      "host": "pornhub.com",
+      "timestamp": "2026-07-13T17:02:38.427586+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "blocked": true,
+      "category": "Court Order",
+      "block_message": "This URL has been blocked under the instructions in compliance with the orders of a Hon'ble Court.",
+      "domain_category": "pornography"
+    },
+    {
+      "host": "xvideos.com",
+      "timestamp": "2026-07-13T17:02:38.538388+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "The website has been blocked as per notice/direction of Law Enforcement Agencies(LEAs).",
+      "blocked": true,
+      "category": "Law Enforcement (LEA)",
+      "block_message": "The website has been blocked as per notice/direction of Law Enforcement Agencies(LEAs).",
+      "domain_category": "pornography"
+    },
+    {
+      "host": "xhamster.com",
+      "timestamp": "2026-07-13T17:02:38.651491+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "The website has been blocked as per notice/direction of Law Enforcement Agencies(LEAs).",
+      "blocked": true,
+      "category": "Law Enforcement (LEA)",
+      "block_message": "The website has been blocked as per notice/direction of Law Enforcement Agencies(LEAs).",
+      "domain_category": "pornography"
+    },
+    {
+      "host": "xnxx.com",
+      "timestamp": "2026-07-13T17:02:38.761561+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "The website has been blocked as per notice/direction of Law Enforcement Agencies(LEAs).",
+      "blocked": true,
+      "category": "Law Enforcement (LEA)",
+      "block_message": "The website has been blocked as per notice/direction of Law Enforcement Agencies(LEAs).",
+      "domain_category": "pornography"
+    },
+    {
+      "host": "redtube.com",
+      "timestamp": "2026-07-13T17:02:38.872336+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "The website has been blocked as per notice/direction of Law Enforcement Agencies(LEAs).",
+      "blocked": true,
+      "category": "Law Enforcement (LEA)",
+      "block_message": "The website has been blocked as per notice/direction of Law Enforcement Agencies(LEAs).",
+      "domain_category": "pornography"
+    },
+    {
+      "host": "youporn.com",
+      "timestamp": "2026-07-13T17:02:38.984002+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "The website has been blocked as per notice/direction of Law Enforcement Agencies(LEAs).",
+      "blocked": true,
+      "category": "Law Enforcement (LEA)",
+      "block_message": "The website has been blocked as per notice/direction of Law Enforcement Agencies(LEAs).",
+      "domain_category": "pornography"
+    },
+    {
+      "host": "spankbang.com",
+      "timestamp": "2026-07-13T17:02:39.094066+00:00",
+      "blocked": false,
+      "category": "ERROR: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "domain_category": "pornography"
+    },
+    {
+      "host": "tube8.com",
+      "timestamp": "2026-07-13T17:02:43.407932+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "The website has been blocked as per notice/direction of Law Enforcement Agencies(LEAs).",
+      "blocked": true,
+      "category": "Law Enforcement (LEA)",
+      "block_message": "The website has been blocked as per notice/direction of Law Enforcement Agencies(LEAs).",
+      "domain_category": "pornography"
+    },
+    {
+      "host": "brazzers.com",
+      "timestamp": "2026-07-13T17:02:43.518710+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "The website has been blocked as per notice/direction of Law Enforcement Agencies(LEAs).",
+      "blocked": true,
+      "category": "Law Enforcement (LEA)",
+      "block_message": "The website has been blocked as per notice/direction of Law Enforcement Agencies(LEAs).",
+      "domain_category": "pornography"
+    },
+    {
+      "host": "playboy.com",
+      "timestamp": "2026-07-13T17:02:43.627800+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "The website has been blocked as per notice/direction of Law Enforcement Agencies(LEAs).",
+      "blocked": true,
+      "category": "Law Enforcement (LEA)",
+      "block_message": "The website has been blocked as per notice/direction of Law Enforcement Agencies(LEAs).",
+      "domain_category": "pornography"
+    },
+    {
+      "host": "xhamster.desi",
+      "timestamp": "2026-07-13T17:02:43.736110+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "The website has been blocked as per order of the Ministry of Electronics and Information Technology under IT Act, 2000.",
+      "blocked": true,
+      "category": "MeitY / IT Act",
+      "block_message": "The website has been blocked as per order of the Ministry of Electronics and Information Technology under IT Act, 2000.",
+      "domain_category": "pornography"
+    }
+  ],
+  "social_media": [
+    {
+      "host": "facebook.com",
+      "timestamp": "2026-07-13T17:02:43.843547+00:00",
+      "blocked": false,
+      "category": "ERROR: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "domain_category": "social_media"
+    },
+    {
+      "host": "twitter.com",
+      "timestamp": "2026-07-13T17:02:46.685241+00:00",
+      "status_code": 520,
+      "reason": "<none>",
+      "response_headers": {
+        "Date": "Mon, 13 Jul 2026 17:02:47 GMT",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Content-Length": "7322",
+        "Connection": "close",
+        "Retry-After": "60",
+        "Cache-Control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "Expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+        "Referrer-Policy": "same-origin",
+        "X-Frame-Options": "SAMEORIGIN",
+        "Server": "cloudflare",
+        "CF-RAY": "a1a9db761e8a7e8a-MAA"
+      },
+      "body": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n\n<title>twitter.com | 520: Web server is returning an unknown error</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n<meta name=\"robots\" content=\"noindex, nofollow\" />\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />\n<link rel=\"stylesheet\" id=\"cf_styles-css\" href=\"/cdn-cgi/styles/main.css\" />\n</head>\n<body>\n<div id=\"cf-wrapper\">\n    <div id=\"cf-error-details\" class=\"p-0\">\n        <header class=\"mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8\">\n            <h1 class=\"inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2\">\n                <span class=\"inline-block\">Web server is returning an unknown error</span>\n                <span class=\"code-label\">Error code 520</span>\n            </h1>\n            <div>\n                Visit <a href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_520&utm_campaign=twitter.com\" target=\"_blank\" rel=\"noopener noreferrer\">cloudflare.com</a> for more information.\n            </div>\n            <div class=\"mt-3\">2026-07-13 17:02:47 UTC</div>\n        </header>\n        <div class=\"my-8 bg-gradient-gray\">\n            <div class=\"w-240 lg:w-full mx-auto\">\n                <div class=\"clearfix md:px-8\">\n                    <div id=\"cf-browser-status\" class=\" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center\">\n  <div class=\"relative mb-10 md:m-0\">\n    \n    <span class=\"cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat\"></span>\n    <span class=\"cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4\"></span>\n    \n  </div>\n  <span class=\"md:block w-full truncate\">You</span>\n  <h3 class=\"md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3\">\n  \n    Browser\n  \n  </h3>\n  \n  <span class=\"leading-1.3 text-2xl text-green-success\">Working</span>\n  \n</div>\n                    <div id=\"cf-cloudflare-status\" class=\" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center\">\n  <div class=\"relative mb-10 md:m-0\">\n    <a href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_520&#38;utm_campaign=twitter.com\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <span class=\"cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat\"></span>\n    <span class=\"cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4\"></span>\n    </a>\n  </div>\n  <span class=\"md:block w-full truncate\">Chennai</span>\n  <h3 class=\"md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3\">\n  <a href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_520&utm_campaign=twitter.com\" target=\"_blank\" rel=\"noopener noreferrer\">\n    Cloudflare\n  </a>\n  </h3>\n  \n  <span class=\"leading-1.3 text-2xl text-green-success\">Working</span>\n  \n</div>\n                    <div id=\"cf-host-status\" class=\"cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center\">\n  <div class=\"relative mb-10 md:m-0\">\n    \n    <span class=\"cf-icon-server block md:hidden h-20 bg-center bg-no-repeat\"></span>\n    <span class=\"cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4\"></span>\n    \n  </div>\n  <span class=\"md:block w-full truncate\">twitter.com</span>\n  <h3 class=\"md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3\">\n  \n    Host\n  \n  </h3>\n  \n  <span class=\"leading-1.3 text-2xl text-red-error\">Error</span>\n  \n</div>\n                </div>\n            </div>\n        </div>\n\n        <div class=\"w-240 lg:w-full mx-auto mb-8 lg:px-8\">\n            <div class=\"clearfix\">\n                <div class=\"w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed\">\n                    <h2 class=\"text-3xl font-normal leading-1.3 mb-4\">What happened?</h2>\n                    <p>There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed.</p>\n                </div>\n                <div class=\"w-1/2 md:w-full float-left leading-relaxed\">\n                    <h2 class=\"text-3xl font-normal leading-1.3 mb-4\">What can I do?</h2>\n                    \n                <h3 class=\"text-15 font-semibold mb-2\">If you are a visitor of this website:</h3>\n                <p class=\"mb-6\">Please try again in a few minutes.</p>\n\n                <h3 class=\"text-15 font-semibold mb-2\">If you are the owner of this website:</h3>\n                <p><span>There is an issue between Cloudflare's cache and your origin web server. Cloudflare monitors for these errors and automatically investigates the cause. To help support the investigation, you can pull the corresponding error log from your web server and submit it our support team.  Please include the Ray ID (which is at the bottom of this error page).</span> <a rel=\"noopener noreferrer\" href=   \"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-520/\">Additional troubleshooting resources</a>.</p>\n                </div>\n            </div>\n        </div>\n\n        <div class=\"cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300\">\n    <p class=\"text-13\">\n      <span class=\"cf-footer-item sm:block sm:mb-1\">Cloudflare Ray ID: <strong class=\"font-semibold\">a1a9db761e8a7e8a</strong></span>\n      <span class=\"cf-footer-separator sm:hidden\">&bull;</span>\n      <span id=\"cf-footer-item-ip\" class=\"cf-footer-item hidden sm:block sm:mb-1\">\n        Your IP:\n        <button type=\"button\" id=\"cf-footer-ip-reveal\" class=\"cf-footer-ip-reveal-btn\">Click to reveal</button>\n        <span class=\"hidden\" id=\"cf-footer-ip\">49.205.75.11</span>\n        <span class=\"cf-footer-separator sm:hidden\">&bull;</span>\n      </span>\n      <span class=\"cf-footer-item sm:block sm:mb-1\"><span>Performance &amp; security by</span> <a rel=\"noopener noreferrer\" href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_520&#38;utm_campaign=twitter.com\" id=\"brand_link\" target=\"_blank\">Cloudflare</a></span>\n      \n    </p>\n    <script>(function(){function d(){var b=a.getElementById(\"cf-footer-item-ip\"),c=a.getElementById(\"cf-footer-ip-reveal\");b&&\"classList\"in b&&(b.classList.remove(\"hidden\"),c.addEventListener(\"click\",function(){c.classList.add(\"hidden\");a.getElementById(\"cf-footer-ip\").classList.remove(\"hidden\")}))}var a=document;document.addEventListener&&a.addEventListener(\"DOMContentLoaded\",d)})();</script>\n  </div><!-- /.error-footer -->\n\n    </div>\n</div>\n</body>\n</html>",
+      "blocked": false,
+      "proxy_passthrough": true,
+      "category": "TRANSPARENT_PROXY_PASSTHROUGH",
+      "domain_category": "social_media"
+    },
+    {
+      "host": "x.com",
+      "timestamp": "2026-07-13T17:02:47.304281+00:00",
+      "status_code": 301,
+      "reason": "Moved Permanently",
+      "response_headers": {
+        "Date": "Mon, 13 Jul 2026 17:02:47 GMT",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Location": "https://x.com/",
+        "set-cookie": "__cf_bm=0Oecg4XbSeEGRpIDh53HkmifknXqnzZjQySW_hQyEQI-1783962167.3591778-1.0.1.1-hcZBjUiWsVh.pTjX3JTOqjTeXb_S57Qc0AwdDMN.eZeRW1MZTTkgA5cNtBsZLySymmNKystQnEiGpdkd0FkdVvXU2G3KlQRrwO0VAUd2hkyE.2qdcGmafW6WHGbJq9PH; HttpOnly; Path=/; Domain=x.com; Expires=Mon, 13 Jul 2026 17:32:47 GMT",
+        "Server": "cloudflare",
+        "CF-RAY": "a1a9db79f921f3fd-MAA"
+      },
+      "body": "<html>\r\n<head><title>301 Moved Permanently</title></head>\r\n<body>\r\n<center><h1>301 Moved Permanently</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>",
+      "blocked": false,
+      "proxy_passthrough": true,
+      "category": "TRANSPARENT_PROXY_PASSTHROUGH",
+      "domain_category": "social_media"
+    },
+    {
+      "host": "instagram.com",
+      "timestamp": "2026-07-13T17:02:47.471513+00:00",
+      "blocked": false,
+      "category": "ERROR: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "domain_category": "social_media"
+    },
+    {
+      "host": "tiktok.com",
+      "timestamp": "2026-07-13T17:02:50.486244+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "The URL has been blocked as per the instructions of the Competent Government Authority/ in compliance to the orders of Court of Law.",
+      "blocked": true,
+      "category": "Govt Authority + Court",
+      "block_message": "The URL has been blocked as per the instructions of the Competent Government Authority/ in compliance to the orders of Court of Law.",
+      "domain_category": "social_media"
+    },
+    {
+      "host": "www.tiktok.com",
+      "timestamp": "2026-07-13T17:02:50.606009+00:00",
+      "status_code": 404,
+      "reason": "Denied",
+      "response_headers": {
+        "Connection": "close",
+        "Content-type": "text/plain"
+      },
+      "body": "The URL has been blocked as per the instructions of the Competent Government Authority/ in compliance to the orders of Court of Law.",
+      "blocked": true,
+      "category": "Govt Authority + Court",
+      "block_message": "The URL has been blocked as per the instructions of the Competent Government Authority/ in compliance to the orders of Court of Law.",
+      "domain_category": "social_media"
+    },
+    {
+      "host": "douyin.com",
+      "timestamp": "2026-07-13T17:02:50.714223+00:00",
+      "status_code": 301,
+      "reason": "Moved Permanently",
+      "response_headers": {
+        "Date": "Mon, 13 Jul 2026 17:02:51 GMT",
+        "Content-Type": "text/html",
+        "Content-Length": "160",
+        "Connection": "close",
+        "Location": "https://douyin.com/",
+        "Proxy-Status": "0000201301026000",
+        "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+        "x-tt-trace-host": "0107042b849470c8b183e86c6425698f7ce0f1ba2074f1cb21c91a40a9595c6968739b10c72ae6d95bfeb960abc8634104",
+        "x-tt-trace-tag": "id=00;cdn-cache=miss",
+        "x-tt-trace-id": "00-260714010251DF9DC22E4C4AF0AF0D1D-7D8022A042F94266-00",
+        "Server": "TLB",
+        "X-TT-LOGID": "20260714010251DF9DC22E4C4AF0AF0D1D"
+      },
+      "body": "<html>\r\n<head><title>301 Moved Permanently</title></head>\r\n<body>\r\n<center><h1>301 Moved Permanently</h1></center>\r\n<hr><center>TLB</center>\r\n</body>\r\n</html>",
+      "blocked": false,
+      "proxy_passthrough": true,
+      "category": "TRANSPARENT_PROXY_PASSTHROUGH",
+      "domain_category": "social_media"
+    },
+    {
+      "host": "whatsapp.com",
+      "timestamp": "2026-07-13T17:02:51.460775+00:00",
+      "blocked": false,
+      "category": "ERROR: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "domain_category": "social_media"
+    },
+    {
+      "host": "telegram.org",
+      "timestamp": "2026-07-13T17:02:54.575494+00:00",
+      "blocked": false,
+      "category": "ERROR: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "domain_category": "social_media"
+    },
+    {
+      "host": "t.me",
+      "timestamp": "2026-07-13T17:02:57.747450+00:00",
+      "blocked": false,
+      "category": "ERROR: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "domain_category": "social_media"
+    },
+    {
+      "host": "signal.org",
+      "timestamp": "2026-07-13T17:03:00.924641+00:00",
+      "blocked": false,
+      "category": "ERROR: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "domain_category": "social_media"
+    },
+    {
+      "host": "discord.com",
+      "timestamp": "2026-07-13T17:03:03.952036+00:00",
+      "status_code": 301,
+      "reason": "Moved Permanently",
+      "response_headers": {
+        "Date": "Mon, 13 Jul 2026 17:03:06 GMT",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Content-Length": "167",
+        "Connection": "close",
+        "Location": "https://discord.com/",
+        "X-Content-Type-Options": "nosniff",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=18zXttgkS%2Boa2%2BVL8OtPVcvLYRJ%2FgqlsnCoXSvxtX1HmzYlkv3MMG4SSo0QULHRtTD4gjtM8sOczsCD8MupQTB5liZ1xZQiRIbK6lT7PzPLltXsYrao%2B3V%2BZOb6g\"}]}",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Reporting-Endpoints": "csp-sentry=\"https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable\"",
+        "Server": "cloudflare",
+        "CF-RAY": "a1a9dbf06f793c4f-MAA",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      },
+      "body": "<html>\r\n<head><title>301 Moved Permanently</title></head>\r\n<body>\r\n<center><h1>301 Moved Permanently</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>",
+      "blocked": false,
+      "proxy_passthrough": true,
+      "category": "TRANSPARENT_PROXY_PASSTHROUGH",
+      "domain_category": "social_media"
+    },
+    {
+      "host": "reddit.com",
+      "timestamp": "2026-07-13T17:03:06.417013+00:00",
+      "blocked": false,
+      "category": "ERROR: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "domain_category": "social_media"
+    },
+    {
+      "host": "snapchat.com",
+      "timestamp": "2026-07-13T17:03:10.234125+00:00",
+      "status_code": 301,
+      "reason": "Moved Permanently",
+      "response_headers": {
+        "Cache-Control": "private",
+        "Location": "https://snapchat.com:443/",
+        "Content-Length": "0",
+        "Date": "Mon, 13 Jul 2026 17:03:10 GMT",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Connection": "close"
+      },
+      "body": "",
+      "blocked": false,
+      "proxy_passthrough": true,
+      "category": "TRANSPARENT_PROXY_PASSTHROUGH",
+      "domain_category": "social_media"
+    },
+    {
+      "host": "pinterest.com",
+      "timestamp": "2026-07-13T17:03:10.428015+00:00",
+      "status_code": 308,
+      "reason": "Permanent Redirect",
+      "response_headers": {
+        "Connection": "close",
+        "Content-Length": "247",
+        "Retry-After": "0",
+        "Content-Type": "text/html",
+        "Accept-Ranges": "bytes",
+        "Date": "Mon, 13 Jul 2026 17:03:12 GMT",
+        "Location": "https://pinterest.com/"
+      },
+      "body": "<!DOCTYPE html><html><head><title>Permanent Redirect</title><meta http-equiv=\"refresh\" content=\"0\"; url=\"https://www.pinterest.com/\"></head><body>Redirecting... <a href=\"https://www.pinterest.com/\">Click here if it takes too long</a></body></html>",
+      "blocked": false,
+      "category": "OTHER",
+      "domain_category": "social_media"
+    },
+    {
+      "host": "linkedin.com",
+      "timestamp": "2026-07-13T17:03:12.853622+00:00",
+      "blocked": false,
+      "category": "ERROR: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "domain_category": "social_media"
+    }
+  ],
+  "vpn_proxy": [
+    {
+      "host": "protonvpn.com",
+      "timestamp": "2026-07-13T17:03:16.367757+00:00",
+      "status_code": 301,
+      "reason": "Moved Permanently",
+      "response_headers": {
+        "content-length": "0",
+        "location": "https://protonvpn.com/",
+        "connection": "close"
+      },
+      "body": "",
+      "blocked": false,
+      "proxy_passthrough": true,
+      "category": "TRANSPARENT_PROXY_PASSTHROUGH",
+      "domain_category": "vpn_proxy"
+    },
+    {
+      "host": "nordvpn.com",
+      "timestamp": "2026-07-13T17:03:19.980536+00:00",
+      "status_code": 301,
+      "reason": "Moved Permanently",
+      "response_headers": {
+        "Date": "Mon, 13 Jul 2026 17:03:20 GMT",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Content-Length": "167",
+        "Connection": "close",
+        "Location": "https://nordvpn.com/",
+        "Vary": "accept-encoding",
+        "set-cookie": "__cf_bm=ODsvV2LbHySZOe95_5lFR2LcK4YAx_EObuG8UsKoaho-1783962200.1631503-1.0.1.1-EXPH0oNW2HIpKds_ngz9HqE5tHA9.ZF04KxFHJOXC1B5o1ZLKaDRC22EowuPWVQCGk6.ykmdLV1.r3SUXEl026AAQVoWuBdlMVGZVHlGtzFIjYZUbsKYTLtMH2LHOGpVjZ4dYFJ8XPFGy5xW1Cfcfw; HttpOnly; Path=/; Domain=nordvpn.com; Expires=Mon, 13 Jul 2026 17:33:20 GMT",
+        "Server": "cloudflare",
+        "CF-RAY": "a1a9dc470d4db85b-MAA",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      },
+      "body": "<html>\r\n<head><title>301 Moved Permanently</title></head>\r\n<body>\r\n<center><h1>301 Moved Permanently</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>",
+      "blocked": false,
+      "proxy_passthrough": true,
+      "category": "TRANSPARENT_PROXY_PASSTHROUGH",
+      "domain_category": "vpn_proxy"
+    },
+    {
+      "host": "expressvpn.com",
+      "timestamp": "2026-07-13T17:03:20.277578+00:00",
+      "status_code": 301,
+      "reason": "Moved Permanently",
+      "response_headers": {
+        "Content-Length": "0",
+        "Connection": "close",
+        "Server": "CloudFront",
+        "Date": "Mon, 13 Jul 2026 17:03:22 GMT",
+        "Location": "https://www.expressvpn.com/",
+        "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a33f26ffdd9ca5db5788887c8a32d416.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "HYD57-P7",
+        "X-Amz-Cf-Id": "o1_6ToatrZNEtoCVYwA3TbEM9sYCcb54HKRmSq-NhZrqt8tntiFL0w=="
+      },
+      "body": "",
+      "blocked": false,
+      "proxy_passthrough": true,
+      "category": "TRANSPARENT_PROXY_PASSTHROUGH",
+      "domain_category": "vpn_proxy"
+    },
+    {
+      "host": "surfshark.com",
+      "timestamp": "2026-07-13T17:03:22.222401+00:00",
+      "blocked": false,
+      "category": "ERROR: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "domain_category": "vpn_proxy"
+    },
+    {
+      "host": "mullvad.net",
+      "timestamp": "2026-07-13T17:03:25.685980+00:00",
+      "status_code": 301,
+      "reason": "Moved Permanently",
+      "response_headers": {
+        "Server": "nginx",
+        "Date": "Mon, 13 Jul 2026 17:03:28 GMT",
+        "Content-Type": "text/html",
+        "Content-Length": "162",
+        "Connection": "close",
+        "Location": "https://mullvad.net/"
+      },
+      "body": "<html>\r\n<head><title>301 Moved Permanently</title></head>\r\n<body>\r\n<center><h1>301 Moved Permanently</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>",
+      "blocked": false,
+      "proxy_passthrough": true,
+      "category": "TRANSPARENT_PROXY_PASSTHROUGH",
+      "domain_category": "vpn_proxy"
+    },
+    {
+      "host": "torproject.org",
+      "timestamp": "2026-07-13T17:03:28.672799+00:00",
+      "blocked": false,
+      "category": "TIMEOUT",
+      "domain_category": "vpn_proxy"
+    }
+  ],
+  "controls_neutral": [
+    {
+      "host": "example.com",
+      "timestamp": "2026-07-13T17:03:33.782557+00:00",
+      "blocked": false,
+      "category": "ERROR: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "domain_category": "controls_neutral"
+    },
+    {
+      "host": "example.org",
+      "timestamp": "2026-07-13T17:03:34.964164+00:00",
+      "blocked": false,
+      "category": "ERROR: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "domain_category": "controls_neutral"
+    },
+    {
+      "host": "iana.org",
+      "timestamp": "2026-07-13T17:03:38.087019+00:00",
+      "blocked": false,
+      "category": "ERROR: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "domain_category": "controls_neutral"
+    },
+    {
+      "host": "github.com",
+      "timestamp": "2026-07-13T17:03:41.260814+00:00",
+      "status_code": 301,
+      "reason": "Moved Permanently",
+      "response_headers": {
+        "Content-Length": "0",
+        "Location": "https://github.com/",
+        "connection": "close"
+      },
+      "body": "",
+      "blocked": false,
+      "proxy_passthrough": true,
+      "category": "TRANSPARENT_PROXY_PASSTHROUGH",
+      "domain_category": "controls_neutral"
+    },
+    {
+      "host": "google.com",
+      "timestamp": "2026-07-13T17:03:41.452550+00:00",
+      "blocked": false,
+      "category": "ERROR: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "domain_category": "controls_neutral"
+    },
+    {
+      "host": "wikipedia.org",
+      "timestamp": "2026-07-13T17:03:44.435298+00:00",
+      "blocked": false,
+      "category": "ERROR: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "domain_category": "controls_neutral"
+    },
+    {
+      "host": "amazon.in",
+      "timestamp": "2026-07-13T17:03:47.888505+00:00",
+      "status_code": 301,
+      "reason": "Moved Permanently",
+      "response_headers": {
+        "Server": "Server",
+        "Date": "Mon, 13 Jul 2026 17:03:48 GMT",
+        "Content-Type": "text/html",
+        "Content-Length": "163",
+        "Connection": "close",
+        "Location": "https://amazon.in/"
+      },
+      "body": "<html>\r\n<head><title>301 Moved Permanently</title></head>\r\n<body>\r\n<center><h1>301 Moved Permanently</h1></center>\r\n<hr><center>Server</center>\r\n</body>\r\n</html>",
+      "blocked": false,
+      "proxy_passthrough": true,
+      "category": "TRANSPARENT_PROXY_PASSTHROUGH",
+      "domain_category": "controls_neutral"
+    },
+    {
+      "host": "flipkart.com",
+      "timestamp": "2026-07-13T17:03:48.303328+00:00",
+      "status_code": 301,
+      "reason": "Moved Permanently",
+      "response_headers": {
+        "content-length": "0",
+        "location": "https://flipkart.com:443/",
+        "connection": "close"
+      },
+      "body": "",
+      "blocked": false,
+      "proxy_passthrough": true,
+      "category": "TRANSPARENT_PROXY_PASSTHROUGH",
+      "domain_category": "controls_neutral"
+    },
+    {
+      "host": "irctc.co.in",
+      "timestamp": "2026-07-13T17:03:48.429051+00:00",
+      "status_code": 302,
+      "reason": "Moved Temporarily",
+      "response_headers": {
+        "Location": "https://www.irctc.co.in/nget/",
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "body": "",
+      "blocked": false,
+      "proxy_passthrough": true,
+      "category": "TRANSPARENT_PROXY_PASSTHROUGH",
+      "domain_category": "controls_neutral"
+    }
+  ],
+  "controls_nonexistent": [
+    {
+      "host": "this-does-not-exist-98765.com",
+      "timestamp": "2026-07-13T17:03:52.629321+00:00",
+      "blocked": false,
+      "category": "ERROR: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "domain_category": "controls_nonexistent"
+    },
+    {
+      "host": "zzz-fake-domain-test-12345.org",
+      "timestamp": "2026-07-13T17:03:53.021397+00:00",
+      "blocked": false,
+      "category": "ERROR: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "domain_category": "controls_nonexistent"
+    }
+  ]
+}

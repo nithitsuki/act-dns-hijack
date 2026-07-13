@@ -1,0 +1,186 @@
+[
+  {
+    "server": "1.1.1.1",
+    "domain": "music.youtube.com",
+    "rdtype": "A",
+    "query_id": 35919,
+    "query_wire_hex": "8c4f01000001000000000000056d7573696307796f757475626503636f6d0000010001",
+    "timestamp": "2026-07-13T17:09:14.856214+00:00",
+    "response_received": true,
+    "elapsed_ms": 8.25,
+    "response_id": 35919,
+    "id_echo": true,
+    "flags": {
+      "qr": true,
+      "aa": true,
+      "tc": false,
+      "rd": false,
+      "ra": false
+    },
+    "raw_flags": "0x8400",
+    "rcode": "NOERROR",
+    "question_count": 1,
+    "answer_count": 1,
+    "authority_count": 0,
+    "additional_count": 0,
+    "answers": [
+      {
+        "name": "music.youtube.com.",
+        "ttl": 10,
+        "type": "A",
+        "rdata": "49.205.75.11"
+      }
+    ],
+    "has_edns": false,
+    "response_wire_hex": "8c4f84000001000100000000056d7573696307796f757475626503636f6d0000010001c00c000100010000000a000431cd4b0b",
+    "response_wire_len": 51
+  },
+  {
+    "server": "198.51.100.1",
+    "domain": "music.youtube.com",
+    "rdtype": "A",
+    "query_id": 12959,
+    "query_wire_hex": "329f01000001000000000000056d7573696307796f757475626503636f6d0000010001",
+    "timestamp": "2026-07-13T17:09:15.065813+00:00",
+    "response_received": true,
+    "elapsed_ms": 5.24,
+    "response_id": 12959,
+    "id_echo": true,
+    "flags": {
+      "qr": true,
+      "aa": true,
+      "tc": false,
+      "rd": false,
+      "ra": false
+    },
+    "raw_flags": "0x8400",
+    "rcode": "NOERROR",
+    "question_count": 1,
+    "answer_count": 1,
+    "authority_count": 0,
+    "additional_count": 0,
+    "answers": [
+      {
+        "name": "music.youtube.com.",
+        "ttl": 10,
+        "type": "A",
+        "rdata": "49.205.75.11"
+      }
+    ],
+    "has_edns": false,
+    "response_wire_hex": "329f84000001000100000000056d7573696307796f757475626503636f6d0000010001c00c000100010000000a000431cd4b0b",
+    "response_wire_len": 51
+  },
+  {
+    "server": "198.51.100.1",
+    "domain": "music.youtube.com",
+    "rdtype": "AAAA",
+    "query_id": 47575,
+    "query_wire_hex": "b9d701000001000000000000056d7573696307796f757475626503636f6d00001c0001",
+    "timestamp": "2026-07-13T17:09:15.272075+00:00",
+    "response_received": false,
+    "error": "DNS message is malformed."
+  },
+  {
+    "server": "198.51.100.1",
+    "domain": "music.youtube.com",
+    "rdtype": "CNAME",
+    "query_id": 15806,
+    "query_wire_hex": "3dbe01000001000000000000056d7573696307796f757475626503636f6d0000050001",
+    "timestamp": "2026-07-13T17:09:15.476855+00:00",
+    "response_received": false,
+    "error": "DNS message is malformed."
+  },
+  {
+    "server": "198.51.100.1",
+    "domain": "music.youtube.com",
+    "rdtype": "MX",
+    "query_id": 65232,
+    "query_wire_hex": "fed001000001000000000000056d7573696307796f757475626503636f6d00000f0001",
+    "timestamp": "2026-07-13T17:09:15.684982+00:00",
+    "response_received": false,
+    "error": "timeout"
+  },
+  {
+    "server": "198.51.100.1",
+    "domain": "music.youtube.com",
+    "rdtype": "TXT",
+    "query_id": 55824,
+    "query_wire_hex": "da1001000001000000000000056d7573696307796f757475626503636f6d0000100001",
+    "timestamp": "2026-07-13T17:09:18.889564+00:00",
+    "response_received": false,
+    "error": "timeout"
+  },
+  {
+    "server": "198.51.100.1",
+    "domain": "music.youtube.com",
+    "rdtype": "NS",
+    "query_id": 30577,
+    "query_wire_hex": "777101000001000000000000056d7573696307796f757475626503636f6d0000020001",
+    "timestamp": "2026-07-13T17:09:22.093931+00:00",
+    "response_received": false,
+    "error": "timeout"
+  },
+  {
+    "server": "198.51.100.1",
+    "domain": "music.youtube.com",
+    "rdtype": "SOA",
+    "query_id": 31500,
+    "query_wire_hex": "7b0c01000001000000000000056d7573696307796f757475626503636f6d0000060001",
+    "timestamp": "2026-07-13T17:09:25.298405+00:00",
+    "response_received": false,
+    "error": "timeout"
+  },
+  {
+    "server": "1.1.1.1",
+    "domain": "example.com",
+    "rdtype": "A",
+    "query_id": 33075,
+    "query_wire_hex": "813301000001000000000000076578616d706c6503636f6d0000010001",
+    "timestamp": "2026-07-13T17:09:28.502393+00:00",
+    "response_received": true,
+    "elapsed_ms": 10.62,
+    "response_id": 33075,
+    "id_echo": true,
+    "flags": {
+      "qr": true,
+      "aa": false,
+      "tc": false,
+      "rd": true,
+      "ra": true
+    },
+    "raw_flags": "0x8180",
+    "rcode": "NOERROR",
+    "question_count": 1,
+    "answer_count": 1,
+    "authority_count": 0,
+    "additional_count": 0,
+    "answers": [
+      {
+        "name": "example.com.",
+        "ttl": 235,
+        "type": "A",
+        "rdata": "104.20.23.154"
+      },
+      {
+        "name": "example.com.",
+        "ttl": 235,
+        "type": "A",
+        "rdata": "172.66.147.243"
+      }
+    ],
+    "has_edns": false,
+    "response_wire_hex": "813381800001000200000000076578616d706c6503636f6d0000010001c00c00010001000000eb0004ac4293f3c00c00010001000000eb00046814179a",
+    "response_wire_len": 61
+  },
+  {
+    "server": "198.51.100.1",
+    "domain": "example.com",
+    "rdtype": "A",
+    "query_id": 29252,
+    "query_wire_hex": "724401000001000000000000076578616d706c6503636f6d0000010001",
+    "timestamp": "2026-07-13T17:09:28.714248+00:00",
+    "response_received": false,
+    "error": "timeout"
+  }
+]

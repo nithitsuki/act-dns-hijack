@@ -1,0 +1,1533 @@
+{
+  "youtube": [
+    {
+      "domain": "youtube.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:04:35.410839+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "youtube"
+    },
+    {
+      "domain": "www.youtube.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:04:35.517608+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "youtube"
+    },
+    {
+      "domain": "m.youtube.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:04:37.721752+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "youtube"
+    },
+    {
+      "domain": "music.youtube.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:04:39.925621+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "youtube"
+    },
+    {
+      "domain": "tv.youtube.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:04:40.032128+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "youtube"
+    },
+    {
+      "domain": "gaming.youtube.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:04:40.137222+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "youtube"
+    },
+    {
+      "domain": "studio.youtube.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:04:40.244758+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "youtube"
+    },
+    {
+      "domain": "news.youtube.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:04:40.349731+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "youtube"
+    },
+    {
+      "domain": "artists.youtube.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:04:40.454745+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "youtube"
+    },
+    {
+      "domain": "shorts.youtube.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:04:40.560751+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "youtube"
+    },
+    {
+      "domain": "education.youtube.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:04:40.664653+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "youtube"
+    },
+    {
+      "domain": "kids.youtube.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:04:40.768677+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "youtube"
+    },
+    {
+      "domain": "creator.youtube.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:04:40.875968+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "youtube"
+    },
+    {
+      "domain": "www.music.youtube.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:04:40.984556+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "youtube"
+    }
+  ],
+  "google_properties": [
+    {
+      "domain": "google.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:04:41.090522+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "google_properties"
+    },
+    {
+      "domain": "www.google.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:04:43.293353+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "google_properties"
+    },
+    {
+      "domain": "mail.google.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:04:45.497155+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "google_properties"
+    },
+    {
+      "domain": "drive.google.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:04:47.700855+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "google_properties"
+    },
+    {
+      "domain": "accounts.google.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:04:49.905272+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "google_properties"
+    },
+    {
+      "domain": "docs.google.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:04:52.108988+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "google_properties"
+    },
+    {
+      "domain": "maps.google.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:04:54.312157+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "google_properties"
+    },
+    {
+      "domain": "photos.google.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:04:56.515831+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "google_properties"
+    },
+    {
+      "domain": "play.google.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:04:58.720284+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "google_properties"
+    },
+    {
+      "domain": "translate.google.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:00.924485+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "google_properties"
+    },
+    {
+      "domain": "news.google.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:03.128223+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "google_properties"
+    }
+  ],
+  "piracy_torrent": [
+    {
+      "domain": "thepiratebay.org",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:05.332010+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "piracy_torrent"
+    },
+    {
+      "domain": "1337x.to",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:05.435627+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "piracy_torrent"
+    },
+    {
+      "domain": "1337x.st",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:05.539079+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "piracy_torrent"
+    },
+    {
+      "domain": "x1337x.ws",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:05.646997+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "piracy_torrent"
+    },
+    {
+      "domain": "yts.mx",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:05.752381+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "piracy_torrent"
+    },
+    {
+      "domain": "yts.lt",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:05.856902+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "piracy_torrent"
+    },
+    {
+      "domain": "yts.am",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:05.965555+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "piracy_torrent"
+    },
+    {
+      "domain": "rarbg.to",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:06.071593+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "piracy_torrent"
+    },
+    {
+      "domain": "rarbg.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:06.178171+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "piracy_torrent"
+    },
+    {
+      "domain": "rarbgproxy.org",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:06.282012+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "piracy_torrent"
+    },
+    {
+      "domain": "torrentz2.eu",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:06.387141+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "piracy_torrent"
+    },
+    {
+      "domain": "limetorrents.info",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:06.491561+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "piracy_torrent"
+    },
+    {
+      "domain": "extratorrent.to",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:06.594944+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "piracy_torrent"
+    },
+    {
+      "domain": "extratorrent.ee",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:08.798651+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "piracy_torrent"
+    },
+    {
+      "domain": "nyaa.si",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:11.002485+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "piracy_torrent"
+    },
+    {
+      "domain": "nyaa.tracker.ee",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:11.111984+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "piracy_torrent"
+    },
+    {
+      "domain": "kickasstorrents.to",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:13.315547+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "piracy_torrent"
+    },
+    {
+      "domain": "kickass.to",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:13.421475+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "piracy_torrent"
+    },
+    {
+      "domain": "kat.cr",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:13.525434+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "piracy_torrent"
+    },
+    {
+      "domain": "torrentgalaxy.to",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:13.629355+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "piracy_torrent"
+    },
+    {
+      "domain": "torrentproject.pro",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:13.735019+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "piracy_torrent"
+    },
+    {
+      "domain": "magnetdl.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:15.939176+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "piracy_torrent"
+    },
+    {
+      "domain": "isohunt.to",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:16.047012+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "piracy_torrent"
+    },
+    {
+      "domain": "torrentdownloads.me",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:18.250184+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "piracy_torrent"
+    },
+    {
+      "domain": "yourbittorrent.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:18.356957+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "piracy_torrent"
+    },
+    {
+      "domain": "eztv.io",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:18.461858+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "piracy_torrent"
+    },
+    {
+      "domain": "eztv.ag",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:18.567932+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "piracy_torrent"
+    },
+    {
+      "domain": "limetorrents.cc",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:18.672171+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "piracy_torrent"
+    }
+  ],
+  "pornography": [
+    {
+      "domain": "pornhub.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:18.777895+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "pornography"
+    },
+    {
+      "domain": "xvideos.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:18.883010+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "pornography"
+    },
+    {
+      "domain": "xhamster.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:18.988401+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "pornography"
+    },
+    {
+      "domain": "xnxx.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:19.092270+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "pornography"
+    },
+    {
+      "domain": "redtube.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:19.197129+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "pornography"
+    },
+    {
+      "domain": "youporn.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:19.303937+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "pornography"
+    },
+    {
+      "domain": "spankbang.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:19.408817+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "pornography"
+    },
+    {
+      "domain": "tube8.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:21.612942+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "pornography"
+    },
+    {
+      "domain": "brazzers.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:21.723106+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "pornography"
+    },
+    {
+      "domain": "playboy.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:21.827938+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "pornography"
+    },
+    {
+      "domain": "xhamster.desi",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:21.935329+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "pornography"
+    }
+  ],
+  "social_media": [
+    {
+      "domain": "facebook.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:22.040564+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "social_media"
+    },
+    {
+      "domain": "twitter.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:24.244581+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "social_media"
+    },
+    {
+      "domain": "x.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:26.448516+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "social_media"
+    },
+    {
+      "domain": "instagram.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:28.652381+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "social_media"
+    },
+    {
+      "domain": "tiktok.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:30.856176+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "social_media"
+    },
+    {
+      "domain": "www.tiktok.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:30.963772+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "social_media"
+    },
+    {
+      "domain": "douyin.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:31.067516+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "social_media"
+    },
+    {
+      "domain": "whatsapp.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:33.270594+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "social_media"
+    },
+    {
+      "domain": "telegram.org",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:35.474292+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "social_media"
+    },
+    {
+      "domain": "t.me",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:37.677425+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "social_media"
+    },
+    {
+      "domain": "signal.org",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:39.881014+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "social_media"
+    },
+    {
+      "domain": "discord.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:42.085345+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "social_media"
+    },
+    {
+      "domain": "reddit.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:44.289299+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "social_media"
+    },
+    {
+      "domain": "snapchat.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:46.493593+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "social_media"
+    },
+    {
+      "domain": "pinterest.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:48.697094+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "social_media"
+    },
+    {
+      "domain": "linkedin.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:50.900277+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "social_media"
+    },
+    {
+      "domain": "threads.net",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:53.104225+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "social_media"
+    },
+    {
+      "domain": "mastodon.social",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:55.308129+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "social_media"
+    }
+  ],
+  "messaging_voip": [
+    {
+      "domain": "whatsapp.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:57.511843+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "messaging_voip"
+    },
+    {
+      "domain": "telegram.org",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:05:59.716061+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "messaging_voip"
+    },
+    {
+      "domain": "signal.org",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:06:01.920020+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "messaging_voip"
+    },
+    {
+      "domain": "discord.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:06:04.123236+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "messaging_voip"
+    },
+    {
+      "domain": "skype.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:06:06.327316+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "messaging_voip"
+    },
+    {
+      "domain": "viber.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:06:08.531945+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "messaging_voip"
+    },
+    {
+      "domain": "line.me",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:06:10.735173+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "messaging_voip"
+    },
+    {
+      "domain": "kik.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:06:12.939096+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "messaging_voip"
+    },
+    {
+      "domain": "imo.im",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:06:15.142730+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "messaging_voip"
+    },
+    {
+      "domain": "wechat.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:06:17.346217+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "messaging_voip"
+    }
+  ],
+  "streaming_media": [
+    {
+      "domain": "netflix.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:06:17.454754+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "streaming_media"
+    },
+    {
+      "domain": "primevideo.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:06:19.658069+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "streaming_media"
+    },
+    {
+      "domain": "hotstar.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:06:21.861548+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "streaming_media"
+    },
+    {
+      "domain": "sonyliv.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:06:24.065246+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "streaming_media"
+    },
+    {
+      "domain": "voot.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:06:26.269190+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "streaming_media"
+    },
+    {
+      "domain": "zee5.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:06:28.472172+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "streaming_media"
+    },
+    {
+      "domain": "mxplayer.in",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:06:30.676724+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "streaming_media"
+    },
+    {
+      "domain": "jiocinema.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:06:32.880821+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "streaming_media"
+    },
+    {
+      "domain": "aha.video",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:06:35.084620+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "streaming_media"
+    },
+    {
+      "domain": "twitch.tv",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:06:37.288659+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "streaming_media"
+    },
+    {
+      "domain": "dailymotion.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:06:39.493455+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "streaming_media"
+    },
+    {
+      "domain": "vimeo.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:06:41.697595+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "streaming_media"
+    },
+    {
+      "domain": "spotify.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:06:43.901191+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "streaming_media"
+    },
+    {
+      "domain": "soundcloud.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:06:46.105120+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "streaming_media"
+    },
+    {
+      "domain": "disneyplus.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:06:48.310181+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "streaming_media"
+    },
+    {
+      "domain": "hbo.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:06:50.513165+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "streaming_media"
+    },
+    {
+      "domain": "hulu.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:06:52.716660+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "streaming_media"
+    }
+  ],
+  "news_media": [
+    {
+      "domain": "bbc.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:06:54.920479+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "news_media"
+    },
+    {
+      "domain": "cnn.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:06:57.124275+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "news_media"
+    },
+    {
+      "domain": "reuters.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:06:59.327813+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "news_media"
+    },
+    {
+      "domain": "aljazeera.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:07:01.530978+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "news_media"
+    },
+    {
+      "domain": "ndtv.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:07:03.734430+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "news_media"
+    },
+    {
+      "domain": "thehindu.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:07:05.937002+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "news_media"
+    },
+    {
+      "domain": "timesofindia.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:07:08.140377+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "news_media"
+    },
+    {
+      "domain": "indianexpress.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:07:10.344022+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "news_media"
+    },
+    {
+      "domain": "hindustantimes.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:07:12.547097+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "news_media"
+    },
+    {
+      "domain": "wikipedia.org",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:07:14.750470+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "news_media"
+    },
+    {
+      "domain": "wikimedia.org",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:07:16.954132+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "news_media"
+    },
+    {
+      "domain": "archive.org",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:07:19.157102+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "news_media"
+    },
+    {
+      "domain": "archive.today",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:07:21.360079+00:00",
+      "blocked": true,
+      "resolved_ips": [
+        "49.205.75.11"
+      ],
+      "sinkhole_ip": "49.205.75.11",
+      "category": "news_media"
+    },
+    {
+      "domain": "reddit.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:07:21.470165+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "news_media"
+    },
+    {
+      "domain": "medium.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:07:23.672984+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "news_media"
+    }
+  ],
+  "dev_tools": [
+    {
+      "domain": "github.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:07:25.876368+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "dev_tools"
+    },
+    {
+      "domain": "gitlab.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:07:28.079119+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "dev_tools"
+    },
+    {
+      "domain": "bitbucket.org",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:07:30.283022+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "dev_tools"
+    },
+    {
+      "domain": "stackoverflow.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:07:32.486126+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "dev_tools"
+    },
+    {
+      "domain": "stackexchange.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:07:34.690391+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "dev_tools"
+    },
+    {
+      "domain": "npmjs.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:07:36.894090+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "dev_tools"
+    },
+    {
+      "domain": "pypi.org",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:07:39.097497+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "dev_tools"
+    },
+    {
+      "domain": "crates.io",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:07:41.300077+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "dev_tools"
+    },
+    {
+      "domain": "docker.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:07:43.503428+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "dev_tools"
+    },
+    {
+      "domain": "docker.io",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:07:45.707136+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "dev_tools"
+    },
+    {
+      "domain": "registry.k8s.io",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:07:47.910378+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "dev_tools"
+    },
+    {
+      "domain": "raw.githubusercontent.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:07:50.114182+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "dev_tools"
+    },
+    {
+      "domain": "gist.github.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:07:52.318349+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "dev_tools"
+    }
+  ],
+  "vpn_proxy": [
+    {
+      "domain": "protonvpn.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:07:54.522214+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "vpn_proxy"
+    },
+    {
+      "domain": "nordvpn.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:07:56.725191+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "vpn_proxy"
+    },
+    {
+      "domain": "expressvpn.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:07:58.928462+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "vpn_proxy"
+    },
+    {
+      "domain": "surfshark.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:08:01.132702+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "vpn_proxy"
+    },
+    {
+      "domain": "cyberghost.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:08:03.336150+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "vpn_proxy"
+    },
+    {
+      "domain": "tunnelbear.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:08:05.540225+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "vpn_proxy"
+    },
+    {
+      "domain": "mullvad.net",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:08:07.744469+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "vpn_proxy"
+    },
+    {
+      "domain": "privateinternetaccess.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:08:09.948309+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "vpn_proxy"
+    },
+    {
+      "domain": "windscribe.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:08:12.152629+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "vpn_proxy"
+    },
+    {
+      "domain": "vpnbook.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:08:14.356251+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "vpn_proxy"
+    },
+    {
+      "domain": "hide.me",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:08:16.560093+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "vpn_proxy"
+    },
+    {
+      "domain": "psiphon.ca",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:08:18.764003+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "vpn_proxy"
+    },
+    {
+      "domain": "softether.org",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:08:20.967436+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "vpn_proxy"
+    },
+    {
+      "domain": "openvpn.net",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:08:23.171830+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "vpn_proxy"
+    },
+    {
+      "domain": "torproject.org",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:08:25.375825+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "vpn_proxy"
+    },
+    {
+      "domain": "tails.net",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:08:27.579374+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "vpn_proxy"
+    }
+  ],
+  "controls_neutral": [
+    {
+      "domain": "example.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:08:29.782158+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "controls_neutral"
+    },
+    {
+      "domain": "example.org",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:08:31.985295+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "controls_neutral"
+    },
+    {
+      "domain": "example.net",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:08:34.189241+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "controls_neutral"
+    },
+    {
+      "domain": "test.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:08:36.392316+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "controls_neutral"
+    },
+    {
+      "domain": "iana.org",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:08:38.596486+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "controls_neutral"
+    },
+    {
+      "domain": "rfc-editor.org",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:08:40.800486+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "controls_neutral"
+    },
+    {
+      "domain": "ietf.org",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:08:43.003974+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "controls_neutral"
+    },
+    {
+      "domain": "w3.org",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:08:45.207189+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "controls_neutral"
+    },
+    {
+      "domain": "kernel.org",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:08:47.409722+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "controls_neutral"
+    },
+    {
+      "domain": "google.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:08:49.613340+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "controls_neutral"
+    },
+    {
+      "domain": "cloudflare.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:08:51.817293+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "controls_neutral"
+    },
+    {
+      "domain": "amazonaws.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:08:54.021289+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "controls_neutral"
+    },
+    {
+      "domain": "microsoft.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:08:56.225214+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "controls_neutral"
+    },
+    {
+      "domain": "apple.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:08:58.428270+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "controls_neutral"
+    }
+  ],
+  "controls_nonexistent": [
+    {
+      "domain": "this-does-not-exist-98765.com",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:09:00.631076+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "controls_nonexistent"
+    },
+    {
+      "domain": "zzz-fake-domain-test-12345.org",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:09:02.834380+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "controls_nonexistent"
+    },
+    {
+      "domain": "not-a-real-website-67890.net",
+      "queried_ip": "198.51.100.1",
+      "timestamp": "2026-07-13T17:09:05.037578+00:00",
+      "blocked": false,
+      "status": "TIMEOUT",
+      "category": "controls_nonexistent"
+    }
+  ]
+}

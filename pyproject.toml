@@ -1,0 +1,9 @@
+[project]
+name = "act-transparent-proxy-bans"
+version = "0.1.0"
+description = "Forensic investigation of ACT Fibernet's transparent DNS proxy blocking system"
+requires-python = ">=3.12"
+dependencies = [
+    "dnspython>=2.8.0",
+    "requests>=2.34.2",
+]

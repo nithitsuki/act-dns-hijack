@@ -1,0 +1,1715 @@
+[
+  {
+    "destination": "1.1.1.1:53",
+    "domain": "music.youtube.com",
+    "query_id_sent": 36718,
+    "sent_packet_hex": "8f6e01000001000000000000056d7573696307796f757475626503636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:43.494472+00:00",
+    "response_received": true,
+    "responder_ip": "1.1.1.1",
+    "responder_port": 53,
+    "elapsed_ms": 4.44,
+    "response": {
+      "id": 36718,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": true,
+        "tc": false,
+        "rd": false,
+        "ra": false,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8400",
+      "qdcount": 1,
+      "ancount": 1,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "music.youtube.com",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "music.youtube.com",
+          "type": 1,
+          "class": 1,
+          "ttl": 10,
+          "rdata": "49.205.75.11"
+        }
+      ],
+      "raw_hex": "8f6e84000001000100000000056d7573696307796f757475626503636f6d0000010001056d7573696307796f757475626503636f6d00000100010000000a000431cd4b0b"
+    },
+    "query_id_matches": true,
+    "category": "blocked",
+    "is_dead_end": false
+  },
+  {
+    "destination": "8.8.8.8:53",
+    "domain": "music.youtube.com",
+    "query_id_sent": 34201,
+    "sent_packet_hex": "859901000001000000000000056d7573696307796f757475626503636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:43.499341+00:00",
+    "response_received": true,
+    "responder_ip": "8.8.8.8",
+    "responder_port": 53,
+    "elapsed_ms": 2.08,
+    "response": {
+      "id": 34201,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": true,
+        "tc": false,
+        "rd": false,
+        "ra": false,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8400",
+      "qdcount": 1,
+      "ancount": 1,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "music.youtube.com",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "music.youtube.com",
+          "type": 1,
+          "class": 1,
+          "ttl": 10,
+          "rdata": "49.205.75.11"
+        }
+      ],
+      "raw_hex": "859984000001000100000000056d7573696307796f757475626503636f6d0000010001056d7573696307796f757475626503636f6d00000100010000000a000431cd4b0b"
+    },
+    "query_id_matches": true,
+    "category": "blocked",
+    "is_dead_end": false
+  },
+  {
+    "destination": "9.9.9.9:53",
+    "domain": "music.youtube.com",
+    "query_id_sent": 54743,
+    "sent_packet_hex": "d5d701000001000000000000056d7573696307796f757475626503636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:43.501637+00:00",
+    "response_received": true,
+    "responder_ip": "9.9.9.9",
+    "responder_port": 53,
+    "elapsed_ms": 1.85,
+    "response": {
+      "id": 54743,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": true,
+        "tc": false,
+        "rd": false,
+        "ra": false,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8400",
+      "qdcount": 1,
+      "ancount": 1,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "music.youtube.com",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "music.youtube.com",
+          "type": 1,
+          "class": 1,
+          "ttl": 10,
+          "rdata": "49.205.75.11"
+        }
+      ],
+      "raw_hex": "d5d784000001000100000000056d7573696307796f757475626503636f6d0000010001056d7573696307796f757475626503636f6d00000100010000000a000431cd4b0b"
+    },
+    "query_id_matches": true,
+    "category": "blocked",
+    "is_dead_end": false
+  },
+  {
+    "destination": "198.51.100.1:53",
+    "domain": "music.youtube.com",
+    "query_id_sent": 42662,
+    "sent_packet_hex": "a6a601000001000000000000056d7573696307796f757475626503636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:43.503688+00:00",
+    "response_received": true,
+    "responder_ip": "198.51.100.1",
+    "responder_port": 53,
+    "elapsed_ms": 1.94,
+    "response": {
+      "id": 42662,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": true,
+        "tc": false,
+        "rd": false,
+        "ra": false,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8400",
+      "qdcount": 1,
+      "ancount": 1,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "music.youtube.com",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "music.youtube.com",
+          "type": 1,
+          "class": 1,
+          "ttl": 10,
+          "rdata": "49.205.75.11"
+        }
+      ],
+      "raw_hex": "a6a684000001000100000000056d7573696307796f757475626503636f6d0000010001056d7573696307796f757475626503636f6d00000100010000000a000431cd4b0b"
+    },
+    "query_id_matches": true,
+    "category": "blocked",
+    "is_dead_end": true
+  },
+  {
+    "destination": "203.0.113.1:53",
+    "domain": "music.youtube.com",
+    "query_id_sent": 55908,
+    "sent_packet_hex": "da6401000001000000000000056d7573696307796f757475626503636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:43.505920+00:00",
+    "response_received": true,
+    "responder_ip": "203.0.113.1",
+    "responder_port": 53,
+    "elapsed_ms": 1.77,
+    "response": {
+      "id": 55908,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": true,
+        "tc": false,
+        "rd": false,
+        "ra": false,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8400",
+      "qdcount": 1,
+      "ancount": 1,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "music.youtube.com",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "music.youtube.com",
+          "type": 1,
+          "class": 1,
+          "ttl": 10,
+          "rdata": "49.205.75.11"
+        }
+      ],
+      "raw_hex": "da6484000001000100000000056d7573696307796f757475626503636f6d0000010001056d7573696307796f757475626503636f6d00000100010000000a000431cd4b0b"
+    },
+    "query_id_matches": true,
+    "category": "blocked",
+    "is_dead_end": true
+  },
+  {
+    "destination": "192.0.2.1:53",
+    "domain": "music.youtube.com",
+    "query_id_sent": 15332,
+    "sent_packet_hex": "3be401000001000000000000056d7573696307796f757475626503636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:43.507942+00:00",
+    "response_received": true,
+    "responder_ip": "192.0.2.1",
+    "responder_port": 53,
+    "elapsed_ms": 7.13,
+    "response": {
+      "id": 15332,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": true,
+        "tc": false,
+        "rd": false,
+        "ra": false,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8400",
+      "qdcount": 1,
+      "ancount": 1,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "music.youtube.com",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "music.youtube.com",
+          "type": 1,
+          "class": 1,
+          "ttl": 10,
+          "rdata": "49.205.75.11"
+        }
+      ],
+      "raw_hex": "3be484000001000100000000056d7573696307796f757475626503636f6d0000010001056d7573696307796f757475626503636f6d00000100010000000a000431cd4b0b"
+    },
+    "query_id_matches": true,
+    "category": "blocked",
+    "is_dead_end": true
+  },
+  {
+    "destination": "1.1.1.1:53",
+    "domain": "youtube.com",
+    "query_id_sent": 2665,
+    "sent_packet_hex": "0a690100000100000000000007796f757475626503636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:43.515643+00:00",
+    "response_received": true,
+    "responder_ip": "1.1.1.1",
+    "responder_port": 53,
+    "elapsed_ms": 1.82,
+    "response": {
+      "id": 2665,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": true,
+        "tc": false,
+        "rd": false,
+        "ra": false,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8400",
+      "qdcount": 1,
+      "ancount": 1,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "youtube.com",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "youtube.com",
+          "type": 1,
+          "class": 1,
+          "ttl": 10,
+          "rdata": "49.205.75.11"
+        }
+      ],
+      "raw_hex": "0a698400000100010000000007796f757475626503636f6d000001000107796f757475626503636f6d00000100010000000a000431cd4b0b"
+    },
+    "query_id_matches": true,
+    "category": "blocked",
+    "is_dead_end": false
+  },
+  {
+    "destination": "8.8.8.8:53",
+    "domain": "youtube.com",
+    "query_id_sent": 51995,
+    "sent_packet_hex": "cb1b0100000100000000000007796f757475626503636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:43.517863+00:00",
+    "response_received": true,
+    "responder_ip": "8.8.8.8",
+    "responder_port": 53,
+    "elapsed_ms": 2.1,
+    "response": {
+      "id": 51995,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": true,
+        "tc": false,
+        "rd": false,
+        "ra": false,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8400",
+      "qdcount": 1,
+      "ancount": 1,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "youtube.com",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "youtube.com",
+          "type": 1,
+          "class": 1,
+          "ttl": 10,
+          "rdata": "49.205.75.11"
+        }
+      ],
+      "raw_hex": "cb1b8400000100010000000007796f757475626503636f6d000001000107796f757475626503636f6d00000100010000000a000431cd4b0b"
+    },
+    "query_id_matches": true,
+    "category": "blocked",
+    "is_dead_end": false
+  },
+  {
+    "destination": "9.9.9.9:53",
+    "domain": "youtube.com",
+    "query_id_sent": 7001,
+    "sent_packet_hex": "1b590100000100000000000007796f757475626503636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:43.520392+00:00",
+    "response_received": true,
+    "responder_ip": "9.9.9.9",
+    "responder_port": 53,
+    "elapsed_ms": 2.0,
+    "response": {
+      "id": 7001,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": true,
+        "tc": false,
+        "rd": false,
+        "ra": false,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8400",
+      "qdcount": 1,
+      "ancount": 1,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "youtube.com",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "youtube.com",
+          "type": 1,
+          "class": 1,
+          "ttl": 10,
+          "rdata": "49.205.75.11"
+        }
+      ],
+      "raw_hex": "1b598400000100010000000007796f757475626503636f6d000001000107796f757475626503636f6d00000100010000000a000431cd4b0b"
+    },
+    "query_id_matches": true,
+    "category": "blocked",
+    "is_dead_end": false
+  },
+  {
+    "destination": "198.51.100.1:53",
+    "domain": "youtube.com",
+    "query_id_sent": 60456,
+    "sent_packet_hex": "ec280100000100000000000007796f757475626503636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:43.522891+00:00",
+    "response_received": true,
+    "responder_ip": "198.51.100.1",
+    "responder_port": 53,
+    "elapsed_ms": 2.06,
+    "response": {
+      "id": 60456,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": true,
+        "tc": false,
+        "rd": false,
+        "ra": false,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8400",
+      "qdcount": 1,
+      "ancount": 1,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "youtube.com",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "youtube.com",
+          "type": 1,
+          "class": 1,
+          "ttl": 10,
+          "rdata": "49.205.75.11"
+        }
+      ],
+      "raw_hex": "ec288400000100010000000007796f757475626503636f6d000001000107796f757475626503636f6d00000100010000000a000431cd4b0b"
+    },
+    "query_id_matches": true,
+    "category": "blocked",
+    "is_dead_end": true
+  },
+  {
+    "destination": "203.0.113.1:53",
+    "domain": "youtube.com",
+    "query_id_sent": 8166,
+    "sent_packet_hex": "1fe60100000100000000000007796f757475626503636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:43.525521+00:00",
+    "response_received": true,
+    "responder_ip": "203.0.113.1",
+    "responder_port": 53,
+    "elapsed_ms": 1.93,
+    "response": {
+      "id": 8166,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": true,
+        "tc": false,
+        "rd": false,
+        "ra": false,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8400",
+      "qdcount": 1,
+      "ancount": 1,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "youtube.com",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "youtube.com",
+          "type": 1,
+          "class": 1,
+          "ttl": 10,
+          "rdata": "49.205.75.11"
+        }
+      ],
+      "raw_hex": "1fe68400000100010000000007796f757475626503636f6d000001000107796f757475626503636f6d00000100010000000a000431cd4b0b"
+    },
+    "query_id_matches": true,
+    "category": "blocked",
+    "is_dead_end": true
+  },
+  {
+    "destination": "192.0.2.1:53",
+    "domain": "youtube.com",
+    "query_id_sent": 33126,
+    "sent_packet_hex": "81660100000100000000000007796f757475626503636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:43.527846+00:00",
+    "response_received": true,
+    "responder_ip": "192.0.2.1",
+    "responder_port": 53,
+    "elapsed_ms": 1.94,
+    "response": {
+      "id": 33126,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": true,
+        "tc": false,
+        "rd": false,
+        "ra": false,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8400",
+      "qdcount": 1,
+      "ancount": 1,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "youtube.com",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "youtube.com",
+          "type": 1,
+          "class": 1,
+          "ttl": 10,
+          "rdata": "49.205.75.11"
+        }
+      ],
+      "raw_hex": "81668400000100010000000007796f757475626503636f6d000001000107796f757475626503636f6d00000100010000000a000431cd4b0b"
+    },
+    "query_id_matches": true,
+    "category": "blocked",
+    "is_dead_end": true
+  },
+  {
+    "destination": "1.1.1.1:53",
+    "domain": "tiktok.com",
+    "query_id_sent": 5669,
+    "sent_packet_hex": "1625010000010000000000000674696b746f6b03636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:43.530176+00:00",
+    "response_received": true,
+    "responder_ip": "1.1.1.1",
+    "responder_port": 53,
+    "elapsed_ms": 1.82,
+    "response": {
+      "id": 5669,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": true,
+        "tc": false,
+        "rd": false,
+        "ra": false,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8400",
+      "qdcount": 1,
+      "ancount": 1,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "tiktok.com",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "tiktok.com",
+          "type": 1,
+          "class": 1,
+          "ttl": 10,
+          "rdata": "49.205.75.11"
+        }
+      ],
+      "raw_hex": "1625840000010001000000000674696b746f6b03636f6d00000100010674696b746f6b03636f6d00000100010000000a000431cd4b0b"
+    },
+    "query_id_matches": true,
+    "category": "blocked",
+    "is_dead_end": false
+  },
+  {
+    "destination": "8.8.8.8:53",
+    "domain": "tiktok.com",
+    "query_id_sent": 54999,
+    "sent_packet_hex": "d6d7010000010000000000000674696b746f6b03636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:43.532340+00:00",
+    "response_received": true,
+    "responder_ip": "8.8.8.8",
+    "responder_port": 53,
+    "elapsed_ms": 2.2,
+    "response": {
+      "id": 54999,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": true,
+        "tc": false,
+        "rd": false,
+        "ra": false,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8400",
+      "qdcount": 1,
+      "ancount": 1,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "tiktok.com",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "tiktok.com",
+          "type": 1,
+          "class": 1,
+          "ttl": 10,
+          "rdata": "49.205.75.11"
+        }
+      ],
+      "raw_hex": "d6d7840000010001000000000674696b746f6b03636f6d00000100010674696b746f6b03636f6d00000100010000000a000431cd4b0b"
+    },
+    "query_id_matches": true,
+    "category": "blocked",
+    "is_dead_end": false
+  },
+  {
+    "destination": "9.9.9.9:53",
+    "domain": "tiktok.com",
+    "query_id_sent": 10005,
+    "sent_packet_hex": "2715010000010000000000000674696b746f6b03636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:43.534798+00:00",
+    "response_received": true,
+    "responder_ip": "9.9.9.9",
+    "responder_port": 53,
+    "elapsed_ms": 1.85,
+    "response": {
+      "id": 10005,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": true,
+        "tc": false,
+        "rd": false,
+        "ra": false,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8400",
+      "qdcount": 1,
+      "ancount": 1,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "tiktok.com",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "tiktok.com",
+          "type": 1,
+          "class": 1,
+          "ttl": 10,
+          "rdata": "49.205.75.11"
+        }
+      ],
+      "raw_hex": "2715840000010001000000000674696b746f6b03636f6d00000100010674696b746f6b03636f6d00000100010000000a000431cd4b0b"
+    },
+    "query_id_matches": true,
+    "category": "blocked",
+    "is_dead_end": false
+  },
+  {
+    "destination": "198.51.100.1:53",
+    "domain": "tiktok.com",
+    "query_id_sent": 63460,
+    "sent_packet_hex": "f7e4010000010000000000000674696b746f6b03636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:43.536927+00:00",
+    "response_received": true,
+    "responder_ip": "198.51.100.1",
+    "responder_port": 53,
+    "elapsed_ms": 2.25,
+    "response": {
+      "id": 63460,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": true,
+        "tc": false,
+        "rd": false,
+        "ra": false,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8400",
+      "qdcount": 1,
+      "ancount": 1,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "tiktok.com",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "tiktok.com",
+          "type": 1,
+          "class": 1,
+          "ttl": 10,
+          "rdata": "49.205.75.11"
+        }
+      ],
+      "raw_hex": "f7e4840000010001000000000674696b746f6b03636f6d00000100010674696b746f6b03636f6d00000100010000000a000431cd4b0b"
+    },
+    "query_id_matches": true,
+    "category": "blocked",
+    "is_dead_end": true
+  },
+  {
+    "destination": "203.0.113.1:53",
+    "domain": "tiktok.com",
+    "query_id_sent": 24859,
+    "sent_packet_hex": "611b010000010000000000000674696b746f6b03636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:43.539605+00:00",
+    "response_received": true,
+    "responder_ip": "203.0.113.1",
+    "responder_port": 53,
+    "elapsed_ms": 1.94,
+    "response": {
+      "id": 24859,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": true,
+        "tc": false,
+        "rd": false,
+        "ra": false,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8400",
+      "qdcount": 1,
+      "ancount": 1,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "tiktok.com",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "tiktok.com",
+          "type": 1,
+          "class": 1,
+          "ttl": 10,
+          "rdata": "49.205.75.11"
+        }
+      ],
+      "raw_hex": "611b840000010001000000000674696b746f6b03636f6d00000100010674696b746f6b03636f6d00000100010000000a000431cd4b0b"
+    },
+    "query_id_matches": true,
+    "category": "blocked",
+    "is_dead_end": true
+  },
+  {
+    "destination": "192.0.2.1:53",
+    "domain": "tiktok.com",
+    "query_id_sent": 36130,
+    "sent_packet_hex": "8d22010000010000000000000674696b746f6b03636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:43.541975+00:00",
+    "response_received": true,
+    "responder_ip": "192.0.2.1",
+    "responder_port": 53,
+    "elapsed_ms": 3.71,
+    "response": {
+      "id": 36130,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": true,
+        "tc": false,
+        "rd": false,
+        "ra": false,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8400",
+      "qdcount": 1,
+      "ancount": 1,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "tiktok.com",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "tiktok.com",
+          "type": 1,
+          "class": 1,
+          "ttl": 10,
+          "rdata": "49.205.75.11"
+        }
+      ],
+      "raw_hex": "8d22840000010001000000000674696b746f6b03636f6d00000100010674696b746f6b03636f6d00000100010000000a000431cd4b0b"
+    },
+    "query_id_matches": true,
+    "category": "blocked",
+    "is_dead_end": true
+  },
+  {
+    "destination": "1.1.1.1:53",
+    "domain": "thepiratebay.org",
+    "query_id_sent": 56542,
+    "sent_packet_hex": "dcde010000010000000000000c746865706972617465626179036f72670000010001",
+    "timestamp": "2026-07-13T16:56:43.546186+00:00",
+    "response_received": true,
+    "responder_ip": "1.1.1.1",
+    "responder_port": 53,
+    "elapsed_ms": 1.97,
+    "response": {
+      "id": 56542,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": true,
+        "tc": false,
+        "rd": false,
+        "ra": false,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8400",
+      "qdcount": 1,
+      "ancount": 1,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "thepiratebay.org",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "thepiratebay.org",
+          "type": 1,
+          "class": 1,
+          "ttl": 10,
+          "rdata": "49.205.75.11"
+        }
+      ],
+      "raw_hex": "dcde840000010001000000000c746865706972617465626179036f726700000100010c746865706972617465626179036f726700000100010000000a000431cd4b0b"
+    },
+    "query_id_matches": true,
+    "category": "blocked",
+    "is_dead_end": false
+  },
+  {
+    "destination": "8.8.8.8:53",
+    "domain": "thepiratebay.org",
+    "query_id_sent": 40336,
+    "sent_packet_hex": "9d90010000010000000000000c746865706972617465626179036f72670000010001",
+    "timestamp": "2026-07-13T16:56:43.548685+00:00",
+    "response_received": true,
+    "responder_ip": "8.8.8.8",
+    "responder_port": 53,
+    "elapsed_ms": 2.54,
+    "response": {
+      "id": 40336,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": true,
+        "tc": false,
+        "rd": false,
+        "ra": false,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8400",
+      "qdcount": 1,
+      "ancount": 1,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "thepiratebay.org",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "thepiratebay.org",
+          "type": 1,
+          "class": 1,
+          "ttl": 10,
+          "rdata": "49.205.75.11"
+        }
+      ],
+      "raw_hex": "9d90840000010001000000000c746865706972617465626179036f726700000100010c746865706972617465626179036f726700000100010000000a000431cd4b0b"
+    },
+    "query_id_matches": true,
+    "category": "blocked",
+    "is_dead_end": false
+  },
+  {
+    "destination": "9.9.9.9:53",
+    "domain": "thepiratebay.org",
+    "query_id_sent": 60878,
+    "sent_packet_hex": "edce010000010000000000000c746865706972617465626179036f72670000010001",
+    "timestamp": "2026-07-13T16:56:43.551526+00:00",
+    "response_received": true,
+    "responder_ip": "9.9.9.9",
+    "responder_port": 53,
+    "elapsed_ms": 1.87,
+    "response": {
+      "id": 60878,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": true,
+        "tc": false,
+        "rd": false,
+        "ra": false,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8400",
+      "qdcount": 1,
+      "ancount": 1,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "thepiratebay.org",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "thepiratebay.org",
+          "type": 1,
+          "class": 1,
+          "ttl": 10,
+          "rdata": "49.205.75.11"
+        }
+      ],
+      "raw_hex": "edce840000010001000000000c746865706972617465626179036f726700000100010c746865706972617465626179036f726700000100010000000a000431cd4b0b"
+    },
+    "query_id_matches": true,
+    "category": "blocked",
+    "is_dead_end": false
+  },
+  {
+    "destination": "198.51.100.1:53",
+    "domain": "thepiratebay.org",
+    "query_id_sent": 48797,
+    "sent_packet_hex": "be9d010000010000000000000c746865706972617465626179036f72670000010001",
+    "timestamp": "2026-07-13T16:56:43.553696+00:00",
+    "response_received": true,
+    "responder_ip": "198.51.100.1",
+    "responder_port": 53,
+    "elapsed_ms": 2.06,
+    "response": {
+      "id": 48797,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": true,
+        "tc": false,
+        "rd": false,
+        "ra": false,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8400",
+      "qdcount": 1,
+      "ancount": 1,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "thepiratebay.org",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "thepiratebay.org",
+          "type": 1,
+          "class": 1,
+          "ttl": 10,
+          "rdata": "49.205.75.11"
+        }
+      ],
+      "raw_hex": "be9d840000010001000000000c746865706972617465626179036f726700000100010c746865706972617465626179036f726700000100010000000a000431cd4b0b"
+    },
+    "query_id_matches": true,
+    "category": "blocked",
+    "is_dead_end": true
+  },
+  {
+    "destination": "203.0.113.1:53",
+    "domain": "thepiratebay.org",
+    "query_id_sent": 10196,
+    "sent_packet_hex": "27d4010000010000000000000c746865706972617465626179036f72670000010001",
+    "timestamp": "2026-07-13T16:56:43.556194+00:00",
+    "response_received": true,
+    "responder_ip": "203.0.113.1",
+    "responder_port": 53,
+    "elapsed_ms": 1.9,
+    "response": {
+      "id": 10196,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": true,
+        "tc": false,
+        "rd": false,
+        "ra": false,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8400",
+      "qdcount": 1,
+      "ancount": 1,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "thepiratebay.org",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "thepiratebay.org",
+          "type": 1,
+          "class": 1,
+          "ttl": 10,
+          "rdata": "49.205.75.11"
+        }
+      ],
+      "raw_hex": "27d4840000010001000000000c746865706972617465626179036f726700000100010c746865706972617465626179036f726700000100010000000a000431cd4b0b"
+    },
+    "query_id_matches": true,
+    "category": "blocked",
+    "is_dead_end": true
+  },
+  {
+    "destination": "192.0.2.1:53",
+    "domain": "thepiratebay.org",
+    "query_id_sent": 21467,
+    "sent_packet_hex": "53db010000010000000000000c746865706972617465626179036f72670000010001",
+    "timestamp": "2026-07-13T16:56:43.558504+00:00",
+    "response_received": true,
+    "responder_ip": "192.0.2.1",
+    "responder_port": 53,
+    "elapsed_ms": 1.82,
+    "response": {
+      "id": 21467,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": true,
+        "tc": false,
+        "rd": false,
+        "ra": false,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8400",
+      "qdcount": 1,
+      "ancount": 1,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "thepiratebay.org",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "thepiratebay.org",
+          "type": 1,
+          "class": 1,
+          "ttl": 10,
+          "rdata": "49.205.75.11"
+        }
+      ],
+      "raw_hex": "53db840000010001000000000c746865706972617465626179036f726700000100010c746865706972617465626179036f726700000100010000000a000431cd4b0b"
+    },
+    "query_id_matches": true,
+    "category": "blocked",
+    "is_dead_end": true
+  },
+  {
+    "destination": "1.1.1.1:53",
+    "domain": "example.com",
+    "query_id_sent": 6140,
+    "sent_packet_hex": "17fc01000001000000000000076578616d706c6503636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:43.560646+00:00",
+    "response_received": true,
+    "responder_ip": "1.1.1.1",
+    "responder_port": 53,
+    "elapsed_ms": 7.81,
+    "response": {
+      "id": 6140,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": false,
+        "tc": false,
+        "rd": true,
+        "ra": true,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8180",
+      "qdcount": 1,
+      "ancount": 2,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "example.com",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "example.com",
+          "type": 1,
+          "class": 1,
+          "ttl": 105,
+          "rdata": "104.20.23.154"
+        },
+        {
+          "name": "example.com",
+          "type": 1,
+          "class": 1,
+          "ttl": 105,
+          "rdata": "172.66.147.243"
+        }
+      ],
+      "raw_hex": "17fc81800001000200000000076578616d706c6503636f6d0000010001c00c000100010000006900046814179ac00c00010001000000690004ac4293f3"
+    },
+    "query_id_matches": true,
+    "category": "not-blocked control",
+    "is_dead_end": false
+  },
+  {
+    "destination": "8.8.8.8:53",
+    "domain": "example.com",
+    "query_id_sent": 55470,
+    "sent_packet_hex": "d8ae01000001000000000000076578616d706c6503636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:43.568880+00:00",
+    "response_received": true,
+    "responder_ip": "8.8.8.8",
+    "responder_port": 53,
+    "elapsed_ms": 9.27,
+    "response": {
+      "id": 55470,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": false,
+        "tc": false,
+        "rd": true,
+        "ra": true,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8180",
+      "qdcount": 1,
+      "ancount": 2,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "example.com",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "example.com",
+          "type": 1,
+          "class": 1,
+          "ttl": 161,
+          "rdata": "104.20.23.154"
+        },
+        {
+          "name": "example.com",
+          "type": 1,
+          "class": 1,
+          "ttl": 161,
+          "rdata": "172.66.147.243"
+        }
+      ],
+      "raw_hex": "d8ae81800001000200000000076578616d706c6503636f6d0000010001c00c00010001000000a100046814179ac00c00010001000000a10004ac4293f3"
+    },
+    "query_id_matches": true,
+    "category": "not-blocked control",
+    "is_dead_end": false
+  },
+  {
+    "destination": "9.9.9.9:53",
+    "domain": "example.com",
+    "query_id_sent": 10476,
+    "sent_packet_hex": "28ec01000001000000000000076578616d706c6503636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:43.578657+00:00",
+    "response_received": true,
+    "responder_ip": "9.9.9.9",
+    "responder_port": 53,
+    "elapsed_ms": 303.02,
+    "response": {
+      "id": 10476,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": false,
+        "tc": false,
+        "rd": true,
+        "ra": true,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8180",
+      "qdcount": 1,
+      "ancount": 2,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "example.com",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "example.com",
+          "type": 1,
+          "class": 1,
+          "ttl": 274,
+          "rdata": "104.20.23.154"
+        },
+        {
+          "name": "example.com",
+          "type": 1,
+          "class": 1,
+          "ttl": 274,
+          "rdata": "172.66.147.243"
+        }
+      ],
+      "raw_hex": "28ec81800001000200000000076578616d706c6503636f6d0000010001c00c000100010000011200046814179ac00c00010001000001120004ac4293f3"
+    },
+    "query_id_matches": true,
+    "category": "not-blocked control",
+    "is_dead_end": false
+  },
+  {
+    "destination": "198.51.100.1:53",
+    "domain": "example.com",
+    "query_id_sent": 63931,
+    "sent_packet_hex": "f9bb01000001000000000000076578616d706c6503636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:43.882171+00:00",
+    "response_received": false,
+    "error": "timeout",
+    "category": "not-blocked control",
+    "is_dead_end": true
+  },
+  {
+    "destination": "203.0.113.1:53",
+    "domain": "example.com",
+    "query_id_sent": 11641,
+    "sent_packet_hex": "2d7901000001000000000000076578616d706c6503636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:46.885893+00:00",
+    "response_received": false,
+    "error": "timeout",
+    "category": "not-blocked control",
+    "is_dead_end": true
+  },
+  {
+    "destination": "192.0.2.1:53",
+    "domain": "example.com",
+    "query_id_sent": 36601,
+    "sent_packet_hex": "8ef901000001000000000000076578616d706c6503636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:49.889710+00:00",
+    "response_received": false,
+    "error": "timeout",
+    "category": "not-blocked control",
+    "is_dead_end": true
+  },
+  {
+    "destination": "1.1.1.1:53",
+    "domain": "github.com",
+    "query_id_sent": 21529,
+    "sent_packet_hex": "5419010000010000000000000667697468756203636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:52.893426+00:00",
+    "response_received": true,
+    "responder_ip": "1.1.1.1",
+    "responder_port": 53,
+    "elapsed_ms": 12.16,
+    "response": {
+      "id": 21529,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": false,
+        "tc": false,
+        "rd": true,
+        "ra": true,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8180",
+      "qdcount": 1,
+      "ancount": 1,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "github.com",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "github.com",
+          "type": 1,
+          "class": 1,
+          "ttl": 18,
+          "rdata": "20.207.73.82"
+        }
+      ],
+      "raw_hex": "5419818000010001000000000667697468756203636f6d0000010001c00c0001000100000012000414cf4952"
+    },
+    "query_id_matches": true,
+    "category": "not-blocked control",
+    "is_dead_end": false
+  },
+  {
+    "destination": "8.8.8.8:53",
+    "domain": "github.com",
+    "query_id_sent": 5323,
+    "sent_packet_hex": "14cb010000010000000000000667697468756203636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:52.906136+00:00",
+    "response_received": true,
+    "responder_ip": "8.8.8.8",
+    "responder_port": 53,
+    "elapsed_ms": 62.23,
+    "response": {
+      "id": 5323,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": false,
+        "tc": false,
+        "rd": true,
+        "ra": true,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8180",
+      "qdcount": 1,
+      "ancount": 1,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "github.com",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "github.com",
+          "type": 1,
+          "class": 1,
+          "ttl": 60,
+          "rdata": "20.207.73.82"
+        }
+      ],
+      "raw_hex": "14cb818000010001000000000667697468756203636f6d0000010001c00c000100010000003c000414cf4952"
+    },
+    "query_id_matches": true,
+    "category": "not-blocked control",
+    "is_dead_end": false
+  },
+  {
+    "destination": "9.9.9.9:53",
+    "domain": "github.com",
+    "query_id_sent": 25865,
+    "sent_packet_hex": "6509010000010000000000000667697468756203636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:52.968997+00:00",
+    "response_received": true,
+    "responder_ip": "9.9.9.9",
+    "responder_port": 53,
+    "elapsed_ms": 266.41,
+    "response": {
+      "id": 25865,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": false,
+        "tc": false,
+        "rd": true,
+        "ra": true,
+        "z": 0,
+        "rcode": 0
+      },
+      "raw_flags": "0x8180",
+      "qdcount": 1,
+      "ancount": 1,
+      "nscount": 0,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "github.com",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [
+        {
+          "name": "github.com",
+          "type": 1,
+          "class": 1,
+          "ttl": 8,
+          "rdata": "20.207.73.82"
+        }
+      ],
+      "raw_hex": "6509818000010001000000000667697468756203636f6d0000010001c00c0001000100000008000414cf4952"
+    },
+    "query_id_matches": true,
+    "category": "not-blocked control",
+    "is_dead_end": false
+  },
+  {
+    "destination": "198.51.100.1:53",
+    "domain": "github.com",
+    "query_id_sent": 27473,
+    "sent_packet_hex": "6b51010000010000000000000667697468756203636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:53.236065+00:00",
+    "response_received": false,
+    "error": "timeout",
+    "category": "not-blocked control",
+    "is_dead_end": true
+  },
+  {
+    "destination": "203.0.113.1:53",
+    "domain": "github.com",
+    "query_id_sent": 40719,
+    "sent_packet_hex": "9f0f010000010000000000000667697468756203636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:56.238287+00:00",
+    "response_received": false,
+    "error": "timeout",
+    "category": "not-blocked control",
+    "is_dead_end": true
+  },
+  {
+    "destination": "192.0.2.1:53",
+    "domain": "github.com",
+    "query_id_sent": 51990,
+    "sent_packet_hex": "cb16010000010000000000000667697468756203636f6d0000010001",
+    "timestamp": "2026-07-13T16:56:59.241367+00:00",
+    "response_received": false,
+    "error": "timeout",
+    "category": "not-blocked control",
+    "is_dead_end": true
+  },
+  {
+    "destination": "1.1.1.1:53",
+    "domain": "this-does-not-exist-98765.com",
+    "query_id_sent": 21938,
+    "sent_packet_hex": "55b20100000100000000000019746869732d646f65732d6e6f742d65786973742d393837363503636f6d0000010001",
+    "timestamp": "2026-07-13T16:57:02.244767+00:00",
+    "response_received": true,
+    "responder_ip": "1.1.1.1",
+    "responder_port": 53,
+    "elapsed_ms": 58.33,
+    "response": {
+      "id": 21938,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": false,
+        "tc": false,
+        "rd": true,
+        "ra": true,
+        "z": 0,
+        "rcode": 3
+      },
+      "raw_flags": "0x8183",
+      "qdcount": 1,
+      "ancount": 0,
+      "nscount": 1,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "this-does-not-exist-98765.com",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [],
+      "raw_hex": "55b28183000100000001000019746869732d646f65732d6e6f742d65786973742d393837363503636f6d0000010001c0260006000100000384003d01610c67746c642d73657276657273036e657400056e73746c640c766572697369676e2d677273c0266a5518cf000007080000038400093a8000000384"
+    },
+    "query_id_matches": true,
+    "category": "nonexistent control",
+    "is_dead_end": false
+  },
+  {
+    "destination": "8.8.8.8:53",
+    "domain": "this-does-not-exist-98765.com",
+    "query_id_sent": 5732,
+    "sent_packet_hex": "16640100000100000000000019746869732d646f65732d6e6f742d65786973742d393837363503636f6d0000010001",
+    "timestamp": "2026-07-13T16:57:02.303516+00:00",
+    "response_received": true,
+    "responder_ip": "8.8.8.8",
+    "responder_port": 53,
+    "elapsed_ms": 34.84,
+    "response": {
+      "id": 5732,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": false,
+        "tc": false,
+        "rd": true,
+        "ra": true,
+        "z": 0,
+        "rcode": 3
+      },
+      "raw_flags": "0x8183",
+      "qdcount": 1,
+      "ancount": 0,
+      "nscount": 1,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "this-does-not-exist-98765.com",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [],
+      "raw_hex": "16648183000100000001000019746869732d646f65732d6e6f742d65786973742d393837363503636f6d0000010001c0260006000100000384003d01610c67746c642d73657276657273036e657400056e73746c640c766572697369676e2d677273c0266a5518cf000007080000038400093a8000000384"
+    },
+    "query_id_matches": true,
+    "category": "nonexistent control",
+    "is_dead_end": false
+  },
+  {
+    "destination": "9.9.9.9:53",
+    "domain": "this-does-not-exist-98765.com",
+    "query_id_sent": 26274,
+    "sent_packet_hex": "66a20100000100000000000019746869732d646f65732d6e6f742d65786973742d393837363503636f6d0000010001",
+    "timestamp": "2026-07-13T16:57:02.338705+00:00",
+    "response_received": true,
+    "responder_ip": "9.9.9.9",
+    "responder_port": 53,
+    "elapsed_ms": 401.33,
+    "response": {
+      "id": 26274,
+      "flags": {
+        "qr": true,
+        "opcode": 0,
+        "aa": false,
+        "tc": false,
+        "rd": true,
+        "ra": true,
+        "z": 0,
+        "rcode": 3
+      },
+      "raw_flags": "0x8183",
+      "qdcount": 1,
+      "ancount": 0,
+      "nscount": 1,
+      "arcount": 0,
+      "questions": [
+        {
+          "name": "this-does-not-exist-98765.com",
+          "type": 1,
+          "class": 1
+        }
+      ],
+      "answers": [],
+      "raw_hex": "66a28183000100000001000019746869732d646f65732d6e6f742d65786973742d393837363503636f6d0000010001c0260006000100000384003d01610c67746c642d73657276657273036e657400056e73746c640c766572697369676e2d677273c0266a5518c0000007080000038400093a8000000384"
+    },
+    "query_id_matches": true,
+    "category": "nonexistent control",
+    "is_dead_end": false
+  },
+  {
+    "destination": "198.51.100.1:53",
+    "domain": "this-does-not-exist-98765.com",
+    "query_id_sent": 27882,
+    "sent_packet_hex": "6cea0100000100000000000019746869732d646f65732d6e6f742d65786973742d393837363503636f6d0000010001",
+    "timestamp": "2026-07-13T16:57:02.740400+00:00",
+    "response_received": false,
+    "error": "timeout",
+    "category": "nonexistent control",
+    "is_dead_end": true
+  },
+  {
+    "destination": "203.0.113.1:53",
+    "domain": "this-does-not-exist-98765.com",
+    "query_id_sent": 41128,
+    "sent_packet_hex": "a0a80100000100000000000019746869732d646f65732d6e6f742d65786973742d393837363503636f6d0000010001",
+    "timestamp": "2026-07-13T16:57:05.743901+00:00",
+    "response_received": false,
+    "error": "timeout",
+    "category": "nonexistent control",
+    "is_dead_end": true
+  },
+  {
+    "destination": "192.0.2.1:53",
+    "domain": "this-does-not-exist-98765.com",
+    "query_id_sent": 52399,
+    "sent_packet_hex": "ccaf0100000100000000000019746869732d646f65732d6e6f742d65786973742d393837363503636f6d0000010001",
+    "timestamp": "2026-07-13T16:57:08.747450+00:00",
+    "response_received": false,
+    "error": "timeout",
+    "category": "nonexistent control",
+    "is_dead_end": true
+  }
+]
