@@ -6,6 +6,36 @@ All evidence is **reproducible by any subscriber on the ACT network** using the 
 
 ---
 
+## Update — 2026-07-14 (changes observed since the original writeup)
+
+Independently reproduced on the ACT network on 2026-07-14. **Two findings from the
+original report have changed.** The dated `evidence/` captures are left as-is; this
+note records the drift.
+
+1. **Sinkhole IP moved: `49.205.75.11` → `202.83.21.15`.** Forged DNS answers now
+   point to `202.83.21.15` — still ACT infrastructure (reverse DNS
+   `broadband.actcorp.in`, netname `CableLite`, AS24309). The old `49.205.75.11`
+   still *serves the HTTP blockpage*, but DNS forging now returns the new IP.
+   Reproduce: `dig @198.51.100.1 music.youtube.com +short` → `202.83.21.15`.
+   (Affects the sinkhole IP throughout the README and all `evidence/*.json`, and
+   the hardcoded `SINKHOLE_IP` in `scripts/03_blockpage_messages.py`.)
+
+2. **DoH no longer bypasses — ACT now IP-blocks it.** Section *4. Transport-Layer
+   Bypass*, *Key Discoveries* #1, and the *RFC 8484 (DoH)* row state that
+   DNS-over-HTTPS bypasses the interception. As of 2026-07-14 that is no longer
+   true: ACT **RST-blocks the mainstream DoH endpoints on 443** — `1.1.1.1`,
+   `8.8.8.8`, `9.9.9.9`, and `cloudflare-dns.com` are all refused, while generic
+   HTTPS is unaffected. The block is **IP-based, not SNI-based** (verified): a TCP
+   SYN to `1.1.1.1:443` is refused *before* any TLS; a benign SNI
+   (`www.google.com`) to that IP is still refused; and a `cloudflare-dns.com` SNI
+   to an *allowed* Cloudflare IP connects fine. Consequences:
+   - **DoT (853) and TCP-53 still bypass** — the UDP-only interceptor is unchanged;
+     this is a *separate* IP-blocklist control layered on top.
+   - DoH via a **non-blocklisted endpoint** (e.g. NextDNS, on shared CDN IPs) still
+     works. ECH would *not* help, since the filtering is by IP, not SNI.
+
+---
+
 ## Table of Contents
 
 - [Executive Summary](#executive-summary)
